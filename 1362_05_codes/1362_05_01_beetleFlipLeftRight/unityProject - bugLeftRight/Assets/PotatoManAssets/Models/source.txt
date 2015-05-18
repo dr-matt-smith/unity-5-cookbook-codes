@@ -1,0 +1,4 @@
+The potato-man 2D character is from the Unity Technologies free 2D platformer project,
+which you can download yourself from the Unity asset store to see lots more examples of 2D game and animation techniques:
+
+https://www.assetstore.unity3d.com/en/#!/content/11228

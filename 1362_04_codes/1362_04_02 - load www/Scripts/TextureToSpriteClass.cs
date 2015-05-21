@@ -1,0 +1,1 @@
+using UnityEngine;using System.Collections;using UnityEngine.UI;public class TextureToSpriteClass : MonoBehaviour {	private Sprite TextureToSprite(Texture2D texture){		Rect rect = new Rect(0, 0, texture.width, texture.height);		Vector2 pivot = new Vector2(0.5f, 0.5f);		Sprite sprite = Sprite.Create(texture, rect, pivot);		return sprite;	}}

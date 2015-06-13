@@ -1,0 +1,8 @@
+
+==================================
+compass.fw.png (fireworks CS6 PNG)
+cross_hairs.fw.png (fireworks CS6 PNG)
+cross_hairs.fw_small.png (fireworks CS6 PNG)
+
+Author: Matt Smith, Jan 2015
+Licence: Creative Commons Attribution 4.0 International License.

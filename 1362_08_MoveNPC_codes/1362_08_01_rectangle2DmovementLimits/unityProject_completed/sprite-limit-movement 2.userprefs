@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../0423_09_04_swarm/swarm 1/Assets/swarm/Scripts/Swarm.cs">
+    <Files>
+      <File FileName="../../0423_09_04_swarm/swarm 1/Assets/swarm/Scripts/Swarm.cs" Line="11" Column="16" />
+      <File FileName="../../0423_09_04_swarm/swarm 1/Assets/swarm/Scripts/Drone.cs" Line="12" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

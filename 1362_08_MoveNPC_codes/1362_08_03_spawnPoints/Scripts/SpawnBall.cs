@@ -5,14 +5,26 @@ public class SpawnBall : MonoBehaviour {
 	public GameObject prefabBall;
 	private SpawnPointManager spawnPointManager;
 	private float destroyAfterDelay = 1;
+	private float testFireKeyDelay = 0;
 
 	void Start (){
 		spawnPointManager = GetComponent<SpawnPointManager> ();
+		StartCoroutine("CheckFireKeyAfterShortDelay");
 	}
 		
-	void Update() {
-		if(Input.GetButton("Fire1"))
-			CreateSphere();			
+	IEnumerator CheckFireKeyAfterShortDelay () {
+		while(true){
+			yield return new WaitForSeconds(testFireKeyDelay);
+			testFireKeyDelay = 0; // now check every frame
+			CheckFireKey();
+		}
+	}
+	
+	private void CheckFireKey() {
+		if(Input.GetButton("Fire1")){
+			CreateSphere();	
+			testFireKeyDelay = 0.5f;
+		}
 	}
 	
 	private void CreateSphere(){

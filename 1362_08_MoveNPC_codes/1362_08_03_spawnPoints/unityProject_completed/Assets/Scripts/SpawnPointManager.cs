@@ -7,13 +7,13 @@ public class SpawnPointManager : MonoBehaviour {
 	void Start() {
 		spawnPoints = GameObject.FindGameObjectsWithTag("Respawn");
 
-		// ogError if array empty
-		if( spawnPoints.Length < 1) Debug.LogError ("SpawnPointManagaer - cannot find any objects tagged 'Respawn'!");
+		// log Error if array empty
+		if(spawnPoints.Length < 1) Debug.LogError ("SpawnPointManagaer - cannot find any objects tagged 'Respawn'!");
 	}
 
 	public GameObject RandomSpawnPoint (){
 		// return current gameObject if array empty
-		if( spawnPoints.Length < 1) return gameObject;
+		if( spawnPoints.Length < 1) return null;
 
 		int r = Random.Range(0, spawnPoints.Length);
 		return spawnPoints[r];
@@ -21,7 +21,7 @@ public class SpawnPointManager : MonoBehaviour {
 
 	public GameObject NearestSpawnpoint (Vector3 source){
 		// return current gameObject if array empty
-		if( spawnPoints.Length < 1) return gameObject;
+		if( spawnPoints.Length < 1) return null;
 
 		// default is first pne
 		GameObject nearestSpawnPoint = spawnPoints[0];

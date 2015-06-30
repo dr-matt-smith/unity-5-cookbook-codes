@@ -3,20 +3,16 @@ using System.Collections;
 
 public class CheckPoints : MonoBehaviour {
 	private Vector3 respawnPosition;
-
-	void Start()
-	{
+	
+	void Start (){
 		respawnPosition = transform.position;
 	}
-
-	void OnTriggerEnter(Collider hit)
-	{
-		print ("hit somthign tag = " + hit.tag);
-
+	
+	void OnTriggerEnter (Collider hit){
 		if(hit.CompareTag("CheckPoint")){
 			respawnPosition = transform.position;
 		}
-
+		
 		if(hit.CompareTag("Death")){
 			transform.position = respawnPosition;
 		}

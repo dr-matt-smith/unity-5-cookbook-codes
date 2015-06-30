@@ -31,7 +31,10 @@ public class SpawnBall : MonoBehaviour {
 		GameObject spawnPoint = spawnPointManager.RandomSpawnPoint ();
 //		GameObject spawnPoint = spawnPointManager.NearestSpawnpoint(transform.position);
 
-		GameObject newBall = (GameObject)Instantiate (prefabBall, spawnPoint.transform.position, Quaternion.identity);
-		Destroy(newBall, destroyAfterDelay);
+		// only try to instantiate prefab if spawnpoint is NOT null
+		if(spawnPoint){
+			GameObject newBall = (GameObject)Instantiate (prefabBall, spawnPoint.transform.position, Quaternion.identity);
+			Destroy(newBall, destroyAfterDelay);
+		}
 	}
 }

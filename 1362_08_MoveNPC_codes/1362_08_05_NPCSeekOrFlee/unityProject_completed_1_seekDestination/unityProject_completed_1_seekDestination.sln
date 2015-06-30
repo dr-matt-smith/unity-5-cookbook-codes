@@ -1,7 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{5CA80BF5-01BF-F4D8-254D-3AE7AF9D6D3B}") = "game - navmesh 3 - flee player", "Assembly-CSharp-vs.csproj", "{82A8E049-8F04-B89F-D2E4-D10988986DBC}"
+Project("{1E63E5AE-8359-3E5A-62D5-0D7B87102E52}") = "unityProject_completed_1_seekDestination", "Assembly-CSharp.csproj", "{487DFD90-CC05-AA36-771D-DEC327F7FF0C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,15 +9,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{82A8E049-8F04-B89F-D2E4-D10988986DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{82A8E049-8F04-B89F-D2E4-D10988986DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{82A8E049-8F04-B89F-D2E4-D10988986DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{82A8E049-8F04-B89F-D2E4-D10988986DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{487DFD90-CC05-AA36-771D-DEC327F7FF0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{487DFD90-CC05-AA36-771D-DEC327F7FF0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{487DFD90-CC05-AA36-771D-DEC327F7FF0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{487DFD90-CC05-AA36-771D-DEC327F7FF0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-			GlobalSection(MonoDevelopProperties) = preSolution
+	GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
@@ -30,10 +30,10 @@ Global
 		$0.TextStylePolicy = $3
 		$3.FileWidth = 120
 		$3.TabWidth = 4
+		$3.IndentWidth = 4
 		$3.EolMarker = Unix
 		$3.inheritsSet = Mono
 		$3.inheritsScope = text/plain
 		$3.scope = text/plain
 	EndGlobalSection
-
 EndGlobal

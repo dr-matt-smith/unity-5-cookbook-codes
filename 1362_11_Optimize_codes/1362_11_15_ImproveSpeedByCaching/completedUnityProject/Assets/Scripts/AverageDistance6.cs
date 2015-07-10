@@ -4,84 +4,78 @@ using System;
  
 public class AverageDistance6 : MonoBehaviour
 {
-	private GameObject[] sphereArray;
-	private GameObject[] sphereGOArrayCache;
-
+	private Vector3[] spherePositionArrayCache = new Vector3[SphereBuilder.NUM_SPHERES];
 	private SimpleMath mathObjectCache;
 	private Vector3 pos1Cache;
 	private Transform playerTransformCache;
-	private Vector3[] spherePositionCache = new Vector3[SphereBuilder.NUM_SPHERES];
+	private Transform[] sphereTransformArrayCache;
 
+	private void Awake(){
+		mathObjectCache = GetComponent<SimpleMath>();
+	}
+	
 	private void Start(){
-		sphereGOArrayCache = GameObject.FindGameObjectsWithTag("Respawn");
+		GameObject[] sphereGOArray = GameObject.FindGameObjectsWithTag("Respawn");
+		sphereTransformArrayCache = new Transform[SphereBuilder.NUM_SPHERES];
+		for (int i=0; i < SphereBuilder.NUM_SPHERES; i++){
+			sphereTransformArrayCache[i] = sphereGOArray[i].transform;
+			spherePositionArrayCache[i] = sphereGOArray[i].transform.position;
+		}
+		
 		playerTransformCache = GameObject.FindGameObjectWithTag("Player").transform;
 		pos1Cache = playerTransformCache.position;
-		mathObjectCache = GetComponent<SimpleMath>();
-
-		for(int i=0; i < SphereBuilder.NUM_SPHERES; i++){
-			spherePositionCache[i] = sphereGOArrayCache[i].transform.position;
-		}
 	}
 
 	private void Update(){
 		// method1 - basic
 		Profiler.BeginSample("TESTING_method1");
-		sphereArray = GameObject.FindGameObjectsWithTag("Respawn");
-		for(int i=0; i < SphereBuilder.NUM_SPHERES; i++){
-			HalfDistanceBasic(i);
+		GameObject[] sphereArray = GameObject.FindGameObjectsWithTag("Respawn");
+		for (int i=0; i < SphereBuilder.NUM_SPHERES; i++){
+			HalfDistanceBasic(sphereArray[i].transform);
 		}
 		Profiler.EndSample();		
-
+		
 		// method2 - use cached sphere ('Respawn' array)
 		Profiler.BeginSample("TESTING_method2");
-		sphereArray = sphereGOArrayCache;
-		for(int i=0; i < SphereBuilder.NUM_SPHERES; i++){
-			HalfDistanceBasic(i);
+		for (int i=0; i < SphereBuilder.NUM_SPHERES; i++){
+			HalfDistanceBasic(sphereTransformArrayCache[i]);
 		}
 		Profiler.EndSample();		
-
+		
 		// method3 - use cached playerTransform
 		Profiler.BeginSample("TESTING_method3");
-		sphereArray = GameObject.FindGameObjectsWithTag("Respawn");
-		for(int i=0; i < SphereBuilder.NUM_SPHERES; i++){
-			HalfDistanceCachePlayerTransform(i);
+		for (int i=0; i < SphereBuilder.NUM_SPHERES; i++){
+			HalfDistanceCachePlayerTransform(sphereTransformArrayCache[i]);
 		}
-		Profiler.EndSample();		
+		Profiler.EndSample();	
 		
 		// method4 - use cached playerTransform.position
 		Profiler.BeginSample("TESTING_method4");
-		sphereArray = GameObject.FindGameObjectsWithTag("Respawn");
-		for(int i=0; i < SphereBuilder.NUM_SPHERES; i++){
-			HalfDistanceCachePlayer1Position(i);
+		for (int i=0; i < SphereBuilder.NUM_SPHERES; i++){
+			HalfDistanceCachePlayer1Position(sphereTransformArrayCache[i]);
 		}
-		Profiler.EndSample();		
+		Profiler.EndSample();			
 		
 		// method5 - use cached math component
 		Profiler.BeginSample("TESTING_method5");
-		sphereArray = GameObject.FindGameObjectsWithTag("Respawn");
-		for(int i=0; i < SphereBuilder.NUM_SPHERES; i++){
-			HalfDistanceCacheMathComponent(i);
+		for (int i=0; i < SphereBuilder.NUM_SPHERES; i++){
+			HalfDistanceCacheMathComponent(sphereTransformArrayCache[i]);
 		}
-		Profiler.EndSample();		
-		
-		
+
 		// method6 - use cached array of sphere positions
 		Profiler.BeginSample("TESTING_method6");
-		sphereArray = GameObject.FindGameObjectsWithTag("Respawn");
-		for(int i=0; i < SphereBuilder.NUM_SPHERES; i++){
-			HalfDistanceCacheSpherePositions(i);
+		for (int i=0; i < SphereBuilder.NUM_SPHERES; i++){
+			HalfDistanceCacheSpherePositions(sphereTransformArrayCache[i], spherePositionArrayCache[i]);
 		}
 		Profiler.EndSample();		
-		
 	}
 
 	// basic 
-	private void HalfDistanceBasic(int i){
+	private void HalfDistanceBasic(Transform sphereGOTransform){
 		Transform playerTransform = GameObject.FindGameObjectWithTag("Player").transform;
 		Vector3 pos1 = playerTransform.position;
-		Transform sphereGOTransform = sphereArray[i].transform;
 		Vector3 pos2 = sphereGOTransform.position;
-
+		
 		float distance = Vector3.Distance(pos1, pos2);
 		
 		SimpleMath mathObject = GetComponent<SimpleMath>();
@@ -89,48 +83,36 @@ public class AverageDistance6 : MonoBehaviour
 	}
 	
 	// playerTransform cached
-	private void HalfDistanceCachePlayerTransform(int i){
+	private void HalfDistanceCachePlayerTransform(Transform sphereGOTransform){
 		Vector3 pos1 = playerTransformCache.position;
-		Transform sphereGOTransform = sphereGOArrayCache[i].transform;
 		Vector3 pos2 = sphereGOTransform.position;
-
 		float distance = Vector3.Distance(pos1, pos2);
-		
 		SimpleMath mathObject = GetComponent<SimpleMath>();
 		float halfDistance = mathObject.Halve(distance);
 	}
-		
+	
 	// player position cached
-	private void HalfDistanceCachePlayer1Position(int i){
+	private void HalfDistanceCachePlayer1Position(Transform sphereGOTransform){
 		Vector3 pos1 = pos1Cache;
-		Transform sphereGOTransform = sphereGOArrayCache[i].transform;
 		Vector3 pos2 = sphereGOTransform.position;
-
 		float distance = Vector3.Distance(pos1, pos2);
-
 		SimpleMath mathObject = GetComponent<SimpleMath>();
 		float halfDistance = mathObject.Halve(distance);
 	}
 	
 	// math Component cache
-	private void HalfDistanceCacheMathComponent(int i){
+	private void HalfDistanceCacheMathComponent(Transform sphereGOTransform){
 		Vector3 pos1 = pos1Cache;
-		Transform sphereGOTransform = sphereGOArrayCache[i].transform;
 		Vector3 pos2 = sphereGOTransform.position;
-
 		float distance = Vector3.Distance(pos1, pos2);
-
 		SimpleMath mathObject = mathObjectCache;
 		float halfDistance = mathObject.Halve(distance);
 	}
 	
 	// sphere position cache
-	private void HalfDistanceCacheSpherePositions(int i){
+	private void HalfDistanceCacheSpherePositions(Transform sphereGOTransform, Vector3 pos2){
 		Vector3 pos1 = pos1Cache;
-		Vector3 pos2 = spherePositionCache[i];
-		
 		float distance = Vector3.Distance(pos1, pos2);
-
 		SimpleMath mathObject = mathObjectCache;
 		float halfDistance = mathObject.Halve(distance);
 	}

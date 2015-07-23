@@ -1,10 +1,6 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../Unity-5-Cookbook-WIP/Chapter 03 - Invetory GUI/1362_03_codes/1362_03_11_menu_100_stars/completedUnityProject/Assets/Editor/MyGreatGameEditor.cs">
-    <Files>
-      <File FileName="../../../../../Unity-5-Cookbook-WIP/Chapter 03 - Invetory GUI/1362_03_codes/1362_03_11_menu_100_stars/completedUnityProject/Assets/Editor/MyGreatGameEditor.cs" Line="6" Column="49" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

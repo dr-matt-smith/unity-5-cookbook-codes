@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{45415789-C4E1-998A-51F1-F7B52E76CFA5}</ProjectGuid>
+	<ProjectGuid>{5B22111D-4E11-F8BE-3CAF-F58D7F2B9CE2}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -46,10 +46,8 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\PickupUI.cs" />
      <Compile Include="Assets\Scripts\Player.cs" />
      <Compile Include="Assets\Scripts\PlayerInventoryDisplay.cs" />
-     <Compile Include="Assets\Scripts\PlayerInventoryModel.cs" />
      <Compile Include="Assets\Scripts\PlayerMove.cs" />
      <None Include="Assets\Sprites\SpaceCute PNG\sources.txt" />
  <Reference Include="UnityEngine.UI">

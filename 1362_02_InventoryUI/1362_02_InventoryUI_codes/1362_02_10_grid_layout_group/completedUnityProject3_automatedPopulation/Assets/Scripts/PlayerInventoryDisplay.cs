@@ -13,7 +13,8 @@ public class PlayerInventoryDisplay : MonoBehaviour
 		for(int i=0; i < NUM_INVENTORY_SLOTS; i++){
 			GameObject starSlotGO = (GameObject)Instantiate(starSlotPrefab);
 			starSlotGO.transform.SetParent(slotGrid.transform);
-			
+			starSlotGO.transform.localScale = new Vector3(1,1,1); 
+
 			slots[i] = starSlotGO.GetComponent<PickupUI>();
 		}
 	}

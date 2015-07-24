@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 public class InventoryManager : MonoBehaviour {
 	private PlayerInventoryDisplay playerInventoryDisplay;
-	private List<InventoryItemTotal> items = new List<InventoryItemTotal>();
+	private Dictionary<PickUp.PickUpType, int> items = new Dictionary<PickUp.PickUpType, int>();
 	
 	void Start(){
 		playerInventoryDisplay = GetComponent<PlayerInventoryDisplay>();
@@ -13,22 +13,12 @@ public class InventoryManager : MonoBehaviour {
 	
 	public void Add(PickUp pickup){
 		PickUp.PickUpType type = pickup.type;
-		int index = InventoryItemTotal.IndexOfType(type, items);
-		
-		print ("index = " + index);
-		
-		if(index < 0)
-			AddNewTypeToList(type);
+		int oldTotal = 0;
+		if(items.TryGetValue(type, out oldTotal))
+			items[type] = oldTotal + 1;
 		else
-			items[index].total++;
+			items.Add (type, 1);
 		
 		playerInventoryDisplay.OnChangeInventory(items);
-	}
-	
-	private void AddNewTypeToList(PickUp.PickUpType type){
-		InventoryItemTotal newItemTotal = new InventoryItemTotal();
-		newItemTotal.type = type;
-		newItemTotal.total = 1;
-		items.Add (newItemTotal);
 	}
 }

@@ -1,0 +1,84 @@
+fileFormatVersion: 2
+guid: f29af4b16eeedcf4eaefe6c69a863cbf
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: floor
+    100002: Tunnel
+    100004: tunnel_exterior
+    100006: //RootNode
+    400000: floor
+    400002: Tunnel
+    400004: tunnel_exterior
+    400006: //RootNode
+    2300000: floor
+    2300002: Tunnel
+    2300004: tunnel_exterior
+    3300000: floor
+    3300002: Tunnel
+    3300004: tunnel_exterior
+    4300000: Tunnel
+    4300002: floor
+    4300004: tunnel_exterior
+    6400000: floor
+    6400002: Tunnel
+    6400004: tunnel_exterior
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0199999996
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

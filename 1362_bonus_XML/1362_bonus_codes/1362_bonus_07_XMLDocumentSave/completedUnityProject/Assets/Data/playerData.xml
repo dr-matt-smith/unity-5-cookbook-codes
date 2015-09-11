@@ -1,0 +1,14 @@
+<playerScoreList>
+  <playerScore>
+    <name>matt</name>
+    <score>55</score>
+  </playerScore>
+  <playerScore>
+    <name>jane</name>
+    <score>99</score>
+  </playerScore>
+  <playerScore>
+    <name>fred</name>
+    <score>101</score>
+  </playerScore>
+</playerScoreList>

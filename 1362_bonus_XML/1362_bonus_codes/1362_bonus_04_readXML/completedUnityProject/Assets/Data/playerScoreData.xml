@@ -1,0 +1,22 @@
+<scoreRecordList>
+	<scoreRecord>
+		<player>matt</player>
+		<score>2200</score>
+		<date>
+			<day>1</day>
+			<month>Sep</month>
+			<year>2012</year>
+		</date>
+	</scoreRecord>
+	
+	<scoreRecord>
+		<player>jane</player>
+		<score>500</score>
+		<date>
+			<day>12</day>
+			<month>May</month>
+			<year>2012</year>
+		</date>
+	</scoreRecord>
+	
+</scoreRecordList>

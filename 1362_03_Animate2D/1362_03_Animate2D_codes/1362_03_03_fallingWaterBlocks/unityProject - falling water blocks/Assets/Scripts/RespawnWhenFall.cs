@@ -2,6 +2,8 @@
 using System.Collections;
 
 public class RespawnWhenFall : MonoBehaviour {
+	// variable to record the POSITION where out player object starts at
+	// so we can reset the position back to this when he needs to respawn (e.g. when a life is lost)
 	private Vector3 startPosition;
 
 	void Start () {

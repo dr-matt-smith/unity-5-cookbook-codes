@@ -4,6 +4,8 @@ using UnityEngine.UI;
 
 public class Player : MonoBehaviour {
 	public Text starText;
+
+	// total number of stars the player has collected so far ...
 	private int totalStars = 0;
 
 	void Start(){

@@ -2,13 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d79a77a0-4cbf-4da4-b853-3961cd184cfc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_13_custom_cursor/Scripts/CustomCursorPointer.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_14_text_input/Scripts/DisplayChangedTextContent.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_14_text_input/unityProject_textInput/ProjectSettings/ProjectSettings.asset" afterPath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_14_text_input/unityProject_textInput/ProjectSettings/ProjectSettings.asset" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_14_text_input/unityProject_textInput/ProjectSettings/ProjectVersion.txt" afterPath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_14_text_input/unityProject_textInput/ProjectSettings/ProjectVersion.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_11_radar/Scripts/Radar.cs" afterPath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_11_radar/Scripts/Radar.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_15_toggles_and_group/Scripts/ToggleChangeManager.cs" afterPath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_15_toggles_and_group/Scripts/ToggleChangeManager.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_08_pickup_class_text_totals/Scripts/InventoryManager.cs" afterPath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_08_pickup_class_text_totals/Scripts/InventoryManager.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_07_pickup_class_text/Scripts/PickUp.cs" afterPath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_07_pickup_class_text/Scripts/PickUp.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_10_grid_layout_group/Scripts/PickupUI.cs" afterPath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_10_grid_layout_group/Scripts/PickupUI.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_03_CarryingNotCarryingIcon/Scripts/Player.cs" afterPath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_03_CarryingNotCarryingIcon/Scripts/Player.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_04_scoreTotal/Scripts/Player.cs" afterPath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_04_scoreTotal/Scripts/Player.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_05_multiple_images/Scripts/Player.cs" afterPath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_05_multiple_images/Scripts/Player.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_07_pickup_class_text/Scripts/Player.cs" afterPath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_07_pickup_class_text/Scripts/Player.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_02_key_PickupText/Scripts/PlayerInventory.cs" afterPath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_02_key_PickupText/Scripts/PlayerInventory.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_02_key_PickupText/Scripts/PlayerInventoryDisplay.cs" afterPath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_02_key_PickupText/Scripts/PlayerInventoryDisplay.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_05_multiple_images/Scripts/PlayerInventoryDisplay.cs" afterPath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_05_multiple_images/Scripts/PlayerInventoryDisplay.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_06_multiple_images_tiled/Scripts/PlayerInventoryDisplay.cs" afterPath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_06_multiple_images_tiled/Scripts/PlayerInventoryDisplay.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_07_pickup_class_text/Scripts/PlayerInventoryDisplay.cs" afterPath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_07_pickup_class_text/Scripts/PlayerInventoryDisplay.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_08_pickup_class_text_totals/Scripts/PlayerInventoryDisplay.cs" afterPath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_08_pickup_class_text_totals/Scripts/PlayerInventoryDisplay.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_10_grid_layout_group/Scripts/PlayerInventoryDisplay.cs" afterPath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_10_grid_layout_group/Scripts/PlayerInventoryDisplay.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_10_grid_layout_group/Scripts/PlayerInventoryModel.cs" afterPath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_10_grid_layout_group/Scripts/PlayerInventoryModel.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_01_spaceGirlMiniGame/Scripts/PlayerMove.cs" afterPath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_01_spaceGirlMiniGame/Scripts/PlayerMove.cs" />
     </list>
     <ignored path="unity-5-cookbook-codes.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,7 +38,18 @@
     <favorites_list name="unity-5-cookbook-codes" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="PlayerInventoryModel.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_10_grid_layout_group/Scripts/PlayerInventoryModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.21398003">
+              <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,6 +70,22 @@
         <option value="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_13_custom_cursor/Scripts/CustomCursorPointer.cs" />
         <option value="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_14_text_input/Scripts/DisplayChangedTextContent.cs" />
         <option value="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_15_toggles_and_group/Scripts/ToggleChangeManager.cs" />
+        <option value="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_01_spaceGirlMiniGame/Scripts/PlayerMove.cs" />
+        <option value="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_02_key_PickupText/Scripts/PlayerInventoryDisplay.cs" />
+        <option value="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_02_key_PickupText/Scripts/PlayerInventory.cs" />
+        <option value="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_03_CarryingNotCarryingIcon/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_04_scoreTotal/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_05_multiple_images/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_05_multiple_images/Scripts/PlayerInventoryDisplay.cs" />
+        <option value="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_06_multiple_images_tiled/Scripts/PlayerInventoryDisplay.cs" />
+        <option value="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_07_pickup_class_text/Scripts/PickUp.cs" />
+        <option value="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_07_pickup_class_text/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_07_pickup_class_text/Scripts/PlayerInventoryDisplay.cs" />
+        <option value="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_08_pickup_class_text_totals/Scripts/InventoryManager.cs" />
+        <option value="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_08_pickup_class_text_totals/Scripts/PlayerInventoryDisplay.cs" />
+        <option value="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_10_grid_layout_group/Scripts/PickupUI.cs" />
+        <option value="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_10_grid_layout_group/Scripts/PlayerInventoryDisplay.cs" />
+        <option value="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_10_grid_layout_group/Scripts/PlayerInventoryModel.cs" />
       </list>
     </option>
   </component>
@@ -120,15 +156,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1362_01_UI" />
+              <option name="myItemId" value="1362_02_InventoryUI" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1362_01_UI_codes" />
+              <option name="myItemId" value="1362_02_InventoryUI_codes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1362_01_15_toggles_and_group" />
+              <option name="myItemId" value="1362_02_10_grid_layout_group" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -142,15 +178,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1362_01_UI" />
+              <option name="myItemId" value="1362_02_InventoryUI" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1362_01_UI_codes" />
+              <option name="myItemId" value="1362_02_InventoryUI_codes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1362_01_15_toggles_and_group" />
+              <option name="myItemId" value="1362_02_10_grid_layout_group" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -168,11 +204,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1362_01_UI" />
+              <option name="myItemId" value="1362_02_InventoryUI" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1362_01_UI_codes" />
+              <option name="myItemId" value="1362_02_InventoryUI_codes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -186,7 +222,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1362_01_UI" />
+              <option name="myItemId" value="1362_02_InventoryUI" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -259,9 +295,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="874" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32936507" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32936507" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -424,6 +460,198 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.44935805">
           <caret line="21" column="59" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_01_spaceGirlMiniGame/Scripts/PlayerMove.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38516405">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_02_key_PickupText/Scripts/PlayerMove.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4739011">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_02_key_PickupText/Scripts/PlayerInventoryDisplay.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47075605">
+          <caret line="22" column="75" selection-start-line="22" selection-start-column="75" selection-end-line="22" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_03_CarryingNotCarryingIcon/Scripts/PlayerMove.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22664835">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_02_key_PickupText/Scripts/PlayerInventory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10699002">
+          <caret line="5" column="72" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_03_CarryingNotCarryingIcon/Scripts/Player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25677603">
+          <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_04_scoreTotal/Scripts/Player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7917261">
+          <caret line="37" column="58" selection-start-line="37" selection-start-column="58" selection-end-line="37" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_04_scoreTotal/Scripts/PlayerMove.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3708791">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_05_multiple_images/Scripts/Player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.51355207">
+          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_05_multiple_images/Scripts/PlayerInventoryDisplay.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7061341">
+          <caret line="33" column="77" selection-start-line="33" selection-start-column="77" selection-end-line="33" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_05_multiple_images/Scripts/PlayerMove.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43269232">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_06_multiple_images_tiled/Scripts/PlayerInventoryDisplay.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40656206">
+          <caret line="19" column="61" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_06_multiple_images_tiled/Scripts/Player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_07_pickup_class_text/Scripts/PlayerInventoryDisplay.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3366619">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_07_pickup_class_text/Scripts/Player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.764622">
+          <caret line="40" column="41" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_07_pickup_class_text/Scripts/PickUp.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10699002">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_08_pickup_class_text_totals/Scripts/InventoryManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.871612">
+          <caret line="50" column="101" selection-start-line="50" selection-start-column="101" selection-end-line="50" selection-end-column="101" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_08_pickup_class_text_totals/Scripts/PickUp.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_08_pickup_class_text_totals/Scripts/PlayerInventoryDisplay.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5991441">
+          <caret line="28" column="84" selection-start-line="28" selection-start-column="84" selection-end-line="28" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_08_pickup_class_text_totals/Scripts/Player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_10_grid_layout_group/Scripts/PickupUI.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7061341">
+          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_10_grid_layout_group/Scripts/Player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_10_grid_layout_group/Scripts/PlayerInventoryDisplay.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32097003">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_10_grid_layout_group/Scripts/PlayerInventoryModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21398003">
+          <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
           <folding />
         </state>
       </provider>

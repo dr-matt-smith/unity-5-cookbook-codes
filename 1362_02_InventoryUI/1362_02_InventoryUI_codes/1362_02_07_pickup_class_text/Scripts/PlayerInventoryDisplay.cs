@@ -3,11 +3,19 @@ using System.Collections;
 using UnityEngine.UI;
 using System.Collections.Generic;
 
-public class PlayerInventoryDisplay : MonoBehaviour 
+/*
+ * class to manage display of inventory to user
+ */
+public class PlayerInventoryDisplay : MonoBehaviour
 {
+	// reference to UI Text object
+	// public - so needs to be setup via Inspector
 	public Text inventoryText;
-	
-	public void OnChangeInventory(List<PickUp> inventory){
+
+	//-----------------
+	// method to update display of provided List 'inventory'
+	public void OnChangeInventory(List<PickUp> inventory)
+	{
 		/* 
 		 * alphabetical sorting of List
 		 * 
@@ -30,8 +38,10 @@ public class PlayerInventoryDisplay : MonoBehaviour
 			string description = inventory[i].description;
 			newInventoryText += " [" + description+ "]";
 		}
-		
-		if(numItems < 1) newInventoryText = "(empty inventory)";
+
+		// if no items in List then set string to message saying inventory is empty
+		if(numItems < 1)
+			newInventoryText = "(empty inventory)";
 		
 		// (3) update screen display
 		inventoryText.text = newInventoryText;

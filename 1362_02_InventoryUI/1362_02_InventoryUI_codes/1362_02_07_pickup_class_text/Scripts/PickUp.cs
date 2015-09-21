@@ -1,6 +1,10 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class PickUp : MonoBehaviour {
+/*
+ * very simple class - just has 1 public string property
+ */
+public class PickUp : MonoBehaviour
+{
 	public string description;
 }

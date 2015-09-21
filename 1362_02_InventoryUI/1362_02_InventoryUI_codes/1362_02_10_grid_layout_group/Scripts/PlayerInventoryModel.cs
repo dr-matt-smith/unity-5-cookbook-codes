@@ -1,16 +1,25 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class PlayerInventoryModel : MonoBehaviour {
+public class PlayerInventoryModel : MonoBehaviour
+{
 	private int starTotal = 0;
 	private PlayerInventoryDisplay playerInventoryDisplay;
-	
-	void Start(){
+
+	//----------------------------------
+	// get reference to display scripted instance object
+	// and tell it to display the inital 'starTotal'
+	void Start()
+	{
 		playerInventoryDisplay = GetComponent<PlayerInventoryDisplay>();
 		playerInventoryDisplay.OnChangeStarTotal(starTotal);
 	}
-	
-	public void AddStar(){
+
+	//----------------------------------
+	// when we add a star, we add to the total
+	// and tell the display system to display that many yellow stars
+	public void AddStar()
+	{
 		starTotal++;
 		playerInventoryDisplay.OnChangeStarTotal(starTotal);
 	}

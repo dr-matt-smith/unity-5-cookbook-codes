@@ -1,16 +1,30 @@
 using UnityEngine;
 using System.Collections;
 
-public class ButtonActions : MonoBehaviour{
+public class ButtonActions : MonoBehaviour
+{
+	// reference to AudioSource object
+	// public - so set up in Inspector
 	public AudioSource audioSource;
+
+	// reference to a script object of class AudioDestructBehaviour
+	// public - so setup in Inspector
 	public AudioDestructBehaviour audioDestructScriptedObject;
 
-	public void PlaySound(){
+	//----------------------------------
+	// if sound in AudioSource not already playing then start playing it
+	public void PlaySound()
+	{
 		if( !audioSource.isPlaying )
 			audioSource.Play();
 	}
 
-	public void DestroyAfterSoundStops(){
+	//----------------------------------------
+	// when this method run (from UI button click)
+	// enable the scripted object audioDestructScriptedObject
+	// that that object will now respond to Start() and Update() Monobehaviuour messages etc.
+	public void DestroyAfterSoundStops()
+	{
 		audioDestructScriptedObject.enabled = true;
 	}
 }

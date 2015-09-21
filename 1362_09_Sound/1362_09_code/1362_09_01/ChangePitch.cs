@@ -4,7 +4,8 @@
  * class to demonstrate how to change the pitch of an Audio Source according to the 
  * speed of the object's animator component
  */ 
-public class ChangePitch : MonoBehaviour{
+public class ChangePitch : MonoBehaviour
+{
 
 	// Float variable for incrementing the Animation speed
 	public float accel = 0.05f;
@@ -31,13 +32,17 @@ public class ChangePitch : MonoBehaviour{
 	 * At Start, assign the object's Animator component to animator, assign AudioSource component to audioSource,
 	 * get the animation speed and call the AccelRocket function to adjust the audio pitch without accelerating it
 	 */ 
-	void Start(){
+	void Start()
+	{
 		// Set Animator component as 'animator'
 		animator = 	GetComponent<Animator>();
+
 		// Set AudioSource component as 'audioSource'
 		audioSource = GetComponent<AudioSource>();
+
 		// Set the current animator's speed as 'speed'
 		speed = animator.speed;
+
 		// Call AccelRocket() function to adjust sound to initial Animator's speed
 		AccelRocket (0f);
 	}	
@@ -46,7 +51,8 @@ public class ChangePitch : MonoBehaviour{
 	 * Whenever keys '1' and '2' are pressed on the alphanumeric keyboard, 
 	 * call AccelRocket() to readjust speed 
 	 */
-	void Update(){
+	void Update()
+	{
 		if (Input.GetKey (KeyCode.Alpha1))
 			// IF key '1' is pressed, THEN call AccelRocket to increase speed 
 			AccelRocket(accel);
@@ -60,15 +66,20 @@ public class ChangePitch : MonoBehaviour{
 	 * A function that receives float value to be summed   
 	 * to speed 
 	 */
-	public void AccelRocket(float accel){
+	public void AccelRocket(float accel)
+	{
 		// Increment 'speed' with 'accel'
 		speed += accel;
+
 		// Clamp the new speed value to minimum and maximum allowed.
 		speed = Mathf.Clamp(speed,minSpeed,maxSpeed);
-		// Update the animator's speed 
+
+		// Update the animator's speed
 		animator.speed = speed;
+
 		// A variable for keeping the new sound pitch: the animator speed multiplied by the animation/sound ratio
 		float soundPitch = animator.speed * animationSoundRatio;
+
 		// Update AudioSource pitch with absolute value of 'soundPitch'
 		// (conversion to Absolute value needed in case animation is reversed by negative speed value)
 		audioSource.pitch = Mathf.Abs(soundPitch);

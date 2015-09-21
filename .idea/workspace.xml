@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d79a77a0-4cbf-4da4-b853-3961cd184cfc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1362_03_Animate2D/1362_03_Animate2D_codes/1362_03_03_fallingWaterBlocks/Scripts/RespawnWhenFall.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1362_03_Animate2D/1362_03_Animate2D_codes/1362_03_03_fallingWaterBlocks/Scripts/WaterBlock.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_03_Animate2D/1362_03_Animate2D_codes/1362_03_01_beetleFlipLeftRight/Scripts/BugFlip.cs" afterPath="$PROJECT_DIR$/1362_03_Animate2D/1362_03_Animate2D_codes/1362_03_01_beetleFlipLeftRight/Scripts/BugFlip.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_03_Animate2D/1362_03_Animate2D_codes/1362_03_03_fallingWaterBlocks/unityProject - falling water blocks/Assets/Scripts/RespawnWhenFall.cs" afterPath="$PROJECT_DIR$/1362_03_Animate2D/1362_03_Animate2D_codes/1362_03_03_fallingWaterBlocks/unityProject - falling water blocks/Assets/Scripts/RespawnWhenFall.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_04/Scripts/AudioDestructBehaviour.cs" afterPath="$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_04/Scripts/AudioDestructBehaviour.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_03/Scripts/AvoidEarlySoundRestart.cs" afterPath="$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_03/Scripts/AvoidEarlySoundRestart.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_04/Scripts/ButtonActions.cs" afterPath="$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_04/Scripts/ButtonActions.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_01/ChangePitch.cs" afterPath="$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_01/ChangePitch.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_06/SnapshotTrigger.cs" afterPath="$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_06/SnapshotTrigger.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_07/SoundTrigger.cs" afterPath="$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_07/SoundTrigger.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_05/VolumeControl.cs" afterPath="$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_05/VolumeControl.cs" />
     </list>
     <ignored path="unity-5-cookbook-codes.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,11 +30,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="WaterBlock.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1362_03_Animate2D/1362_03_Animate2D_codes/1362_03_03_fallingWaterBlocks/Scripts/WaterBlock.cs">
+      <file leaf-file-name="ChangePitch.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_01/ChangePitch.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.40656206">
-              <caret line="19" column="65" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
+            <state vertical-scroll-proportion="0.7489301">
+              <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -79,6 +81,13 @@
         <option value="$PROJECT_DIR$/1362_03_Animate2D/1362_03_Animate2D_codes/1362_03_03_fallingWaterBlocks/unityProject - falling water blocks/Assets/Scripts/RespawnWhenFall.cs" />
         <option value="$PROJECT_DIR$/1362_03_Animate2D/1362_03_Animate2D_codes/1362_03_03_fallingWaterBlocks/Scripts/RespawnWhenFall.cs" />
         <option value="$PROJECT_DIR$/1362_03_Animate2D/1362_03_Animate2D_codes/1362_03_03_fallingWaterBlocks/Scripts/WaterBlock.cs" />
+        <option value="$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_03/Scripts/AvoidEarlySoundRestart.cs" />
+        <option value="$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_04/Scripts/AudioDestructBehaviour.cs" />
+        <option value="$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_04/Scripts/ButtonActions.cs" />
+        <option value="$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_07/SoundTrigger.cs" />
+        <option value="$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_06/SnapshotTrigger.cs" />
+        <option value="$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_05/VolumeControl.cs" />
+        <option value="$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_01/ChangePitch.cs" />
       </list>
     </option>
   </component>
@@ -149,7 +158,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1362_03_Animate2D" />
+              <option name="myItemId" value="1362_09_Sound" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -163,33 +172,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1362_03_Animate2D" />
+              <option name="myItemId" value="1362_09_Sound" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1362_03_Animate2D_codes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="unity-5-cookbook-codes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="unity-5-cookbook-codes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1362_03_Animate2D" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1362_03_Animate2D_codes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1362_03_03_fallingWaterBlocks" />
+              <option name="myItemId" value="1362_09_code" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -203,19 +190,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1362_03_Animate2D" />
+              <option name="myItemId" value="1362_09_Sound" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1362_03_Animate2D_codes" />
+              <option name="myItemId" value="1362_09_code" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1362_03_03_fallingWaterBlocks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Scripts" />
+              <option name="myItemId" value="1362_09_01" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -327,21 +310,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_11_radar/Scripts/Radar.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_02_clock_digital/Scripts/ClockDigital.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.888889">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_03_digital_countdown/Scripts/ClockDigital.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -676,8 +644,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1362_03_Animate2D/1362_03_Animate2D_codes/1362_03_03_fallingWaterBlocks/Scripts/WaterBlock.cs">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29957205">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_03/Scripts/AvoidEarlySoundRestart.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7061341">
+          <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_04/Scripts/AudioDestructBehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38516405">
+          <caret line="18" column="76" selection-start-line="18" selection-start-column="76" selection-end-line="18" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_04/Scripts/ButtonActions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6205421">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_07/SoundTrigger.cs">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.40656206">
-          <caret line="19" column="65" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_06/SnapshotTrigger.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44935805">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_05/VolumeControl.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.620542">
+          <caret line="80" column="4" selection-start-line="80" selection-start-column="4" selection-end-line="80" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_01/ChangePitch.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7489301">
+          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
           <folding />
         </state>
       </provider>

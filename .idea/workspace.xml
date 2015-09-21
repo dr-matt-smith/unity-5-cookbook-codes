@@ -2,22 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d79a77a0-4cbf-4da4-b853-3961cd184cfc" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_08_pickup_class_text_totals/Scripts/InventoryManager.cs" afterPath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_08_pickup_class_text_totals/Scripts/InventoryManager.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_07_pickup_class_text/Scripts/PickUp.cs" afterPath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_07_pickup_class_text/Scripts/PickUp.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_10_grid_layout_group/Scripts/PickupUI.cs" afterPath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_10_grid_layout_group/Scripts/PickupUI.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_03_CarryingNotCarryingIcon/Scripts/Player.cs" afterPath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_03_CarryingNotCarryingIcon/Scripts/Player.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_04_scoreTotal/Scripts/Player.cs" afterPath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_04_scoreTotal/Scripts/Player.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_05_multiple_images/Scripts/Player.cs" afterPath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_05_multiple_images/Scripts/Player.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_07_pickup_class_text/Scripts/Player.cs" afterPath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_07_pickup_class_text/Scripts/Player.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_02_key_PickupText/Scripts/PlayerInventory.cs" afterPath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_02_key_PickupText/Scripts/PlayerInventory.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_02_key_PickupText/Scripts/PlayerInventoryDisplay.cs" afterPath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_02_key_PickupText/Scripts/PlayerInventoryDisplay.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_05_multiple_images/Scripts/PlayerInventoryDisplay.cs" afterPath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_05_multiple_images/Scripts/PlayerInventoryDisplay.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_06_multiple_images_tiled/Scripts/PlayerInventoryDisplay.cs" afterPath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_06_multiple_images_tiled/Scripts/PlayerInventoryDisplay.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_07_pickup_class_text/Scripts/PlayerInventoryDisplay.cs" afterPath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_07_pickup_class_text/Scripts/PlayerInventoryDisplay.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_08_pickup_class_text_totals/Scripts/PlayerInventoryDisplay.cs" afterPath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_08_pickup_class_text_totals/Scripts/PlayerInventoryDisplay.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_10_grid_layout_group/Scripts/PlayerInventoryDisplay.cs" afterPath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_10_grid_layout_group/Scripts/PlayerInventoryDisplay.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_10_grid_layout_group/Scripts/PlayerInventoryModel.cs" afterPath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_10_grid_layout_group/Scripts/PlayerInventoryModel.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_01_spaceGirlMiniGame/Scripts/PlayerMove.cs" afterPath="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_01_spaceGirlMiniGame/Scripts/PlayerMove.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1362_03_Animate2D/1362_03_Animate2D_codes/1362_03_03_fallingWaterBlocks/Scripts/RespawnWhenFall.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1362_03_Animate2D/1362_03_Animate2D_codes/1362_03_03_fallingWaterBlocks/Scripts/WaterBlock.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_03_Animate2D/1362_03_Animate2D_codes/1362_03_01_beetleFlipLeftRight/Scripts/BugFlip.cs" afterPath="$PROJECT_DIR$/1362_03_Animate2D/1362_03_Animate2D_codes/1362_03_01_beetleFlipLeftRight/Scripts/BugFlip.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_03_Animate2D/1362_03_Animate2D_codes/1362_03_03_fallingWaterBlocks/unityProject - falling water blocks/Assets/Scripts/RespawnWhenFall.cs" afterPath="$PROJECT_DIR$/1362_03_Animate2D/1362_03_Animate2D_codes/1362_03_03_fallingWaterBlocks/unityProject - falling water blocks/Assets/Scripts/RespawnWhenFall.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="unity-5-cookbook-codes.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,11 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PlayerInventoryModel.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_10_grid_layout_group/Scripts/PlayerInventoryModel.cs">
+      <file leaf-file-name="WaterBlock.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1362_03_Animate2D/1362_03_Animate2D_codes/1362_03_03_fallingWaterBlocks/Scripts/WaterBlock.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21398003">
-              <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+            <state vertical-scroll-proportion="0.40656206">
+              <caret line="19" column="65" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
               <folding />
             </state>
           </provider>
@@ -86,6 +75,10 @@
         <option value="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_10_grid_layout_group/Scripts/PickupUI.cs" />
         <option value="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_10_grid_layout_group/Scripts/PlayerInventoryDisplay.cs" />
         <option value="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_10_grid_layout_group/Scripts/PlayerInventoryModel.cs" />
+        <option value="$PROJECT_DIR$/1362_03_Animate2D/1362_03_Animate2D_codes/1362_03_01_beetleFlipLeftRight/Scripts/BugFlip.cs" />
+        <option value="$PROJECT_DIR$/1362_03_Animate2D/1362_03_Animate2D_codes/1362_03_03_fallingWaterBlocks/unityProject - falling water blocks/Assets/Scripts/RespawnWhenFall.cs" />
+        <option value="$PROJECT_DIR$/1362_03_Animate2D/1362_03_Animate2D_codes/1362_03_03_fallingWaterBlocks/Scripts/RespawnWhenFall.cs" />
+        <option value="$PROJECT_DIR$/1362_03_Animate2D/1362_03_Animate2D_codes/1362_03_03_fallingWaterBlocks/Scripts/WaterBlock.cs" />
       </list>
     </option>
   </component>
@@ -156,15 +149,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1362_02_InventoryUI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1362_02_InventoryUI_codes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1362_02_10_grid_layout_group" />
+              <option name="myItemId" value="1362_03_Animate2D" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -178,51 +163,59 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1362_02_InventoryUI" />
+              <option name="myItemId" value="1362_03_Animate2D" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1362_02_InventoryUI_codes" />
+              <option name="myItemId" value="1362_03_Animate2D_codes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unity-5-cookbook-codes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unity-5-cookbook-codes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1362_02_10_grid_layout_group" />
+              <option name="myItemId" value="1362_03_Animate2D" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1362_03_Animate2D_codes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1362_03_03_fallingWaterBlocks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unity-5-cookbook-codes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unity-5-cookbook-codes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1362_03_Animate2D" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1362_03_Animate2D_codes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1362_03_03_fallingWaterBlocks" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="unity-5-cookbook-codes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="unity-5-cookbook-codes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1362_02_InventoryUI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1362_02_InventoryUI_codes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="unity-5-cookbook-codes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="unity-5-cookbook-codes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1362_02_InventoryUI" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -246,6 +239,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/1362_03_Animate2D/1362_03_Animate2D_codes/1362_03_03_fallingWaterBlocks" />
       <recent name="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_14_text_input/Scripts" />
       <recent name="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_13_custom_cursor" />
       <recent name="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_11_radar" />
@@ -652,6 +646,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.21398003">
           <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_03_Animate2D/1362_03_Animate2D_codes/1362_03_01_beetleFlipLeftRight/Scripts/BugFlip.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7275321">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_03_Animate2D/1362_03_Animate2D_codes/1362_03_03_fallingWaterBlocks/unityProject - falling water blocks/Assets/Scripts/RespawnWhenFall.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.082417585">
+          <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_03_Animate2D/1362_03_Animate2D_codes/1362_03_03_fallingWaterBlocks/Scripts/RespawnWhenFall.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5777461">
+          <caret line="27" column="54" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_03_Animate2D/1362_03_Animate2D_codes/1362_03_03_fallingWaterBlocks/Scripts/WaterBlock.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40656206">
+          <caret line="19" column="65" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
           <folding />
         </state>
       </provider>

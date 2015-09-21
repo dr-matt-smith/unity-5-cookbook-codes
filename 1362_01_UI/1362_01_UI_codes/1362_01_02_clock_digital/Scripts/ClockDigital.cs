@@ -14,6 +14,7 @@ public class ClockDigital : MonoBehaviour {
 	// reference to the UI Text object that we'll use to display the time
 	private Text textClock;
 
+	//------------------------
 	void Start()
 	{
 		// cache a reference to the Text component
@@ -21,7 +22,8 @@ public class ClockDigital : MonoBehaviour {
 		textClock = GetComponent<Text>();
 	}
 
-	void Update () 
+	//------------------------
+	void Update ()
 	{
 		// get current time
 		DateTime time = DateTime.Now;

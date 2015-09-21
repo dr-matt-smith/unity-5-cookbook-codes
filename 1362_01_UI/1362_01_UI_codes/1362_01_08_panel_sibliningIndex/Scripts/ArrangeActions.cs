@@ -3,14 +3,20 @@ using UnityEngine.UI;
 using UnityEngine.EventSystems;
 using System.Collections;
 
-public class ArrangeActions : MonoBehaviour {
+public class ArrangeActions : MonoBehaviour
+{
 	private RectTransform panelRectTransform;
 
-	void Start(){
+	void Start()
+	{
 		panelRectTransform = GetComponent<RectTransform>();
 	}
 
-	public void MoveDownOne(){
+	//------------------------------
+	// we change the 'SiblingIndex' of the parent GameObject to be one LESS
+	// so it is drawn sooner, and so 'below' the next UI object to be drawn
+	public void MoveDownOne()
+	{
 		print ("(before change) " + gameObject.name +  " sibling index = " + panelRectTransform.GetSiblingIndex());
 
 		int currentSiblingIndex = panelRectTransform.GetSiblingIndex();
@@ -19,8 +25,11 @@ public class ArrangeActions : MonoBehaviour {
 		print ("(after change) " + gameObject.name +  " sibling index = " + panelRectTransform.GetSiblingIndex());
 	}
 	
-	
-	public void MoveUpOne(){
+	//------------------------------
+	// we change the 'SiblingIndex' of the parent GameObject to be one MORE
+	// so it is drawn later, and so 'above' the next UI object to be drawn
+	public void MoveUpOne()
+	{
 		print ("(before change) " + gameObject.name +  " sibling index = " + panelRectTransform.GetSiblingIndex());
 		
 		int currentSiblingIndex = panelRectTransform.GetSiblingIndex();

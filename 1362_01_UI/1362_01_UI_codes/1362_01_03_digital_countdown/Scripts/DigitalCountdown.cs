@@ -20,7 +20,8 @@ public class DigitalCountdown : MonoBehaviour {
 
 	// time at which we start the countdown (milliseconds since the Application was started)
 	private float countdownTimerStartTime;
-	
+
+	//---------------------------------
 	void Start()
 	{
 		// get reference to Text component inside our parent GameObject
@@ -30,8 +31,8 @@ public class DigitalCountdown : MonoBehaviour {
 		CountdownTimerReset( 30 );
 	}
 
-	// runs every frame
-	void Update () 
+	//---------------------------------
+	void Update ()
 	{
 		// default - timer finished
 		string timerMessage = "countdown has finished";
@@ -60,6 +61,8 @@ public class DigitalCountdown : MonoBehaviour {
 		countdownTimerStartTime = Time.time;
 	}
 
+	//---------------------------------
+	// return float value of seconds remaining, e.g. 5.05
 	private float CountdownTimerSecondsRemaining()
 	{
 		// elapse time is current time less time when we started the timer
@@ -71,6 +74,7 @@ public class DigitalCountdown : MonoBehaviour {
 		return timeLeft;
 	}
 
+	//---------------------------------
 	private string LeadingZero(int n)
 	{
 		// pad out numbers less than 10 with a leading 0

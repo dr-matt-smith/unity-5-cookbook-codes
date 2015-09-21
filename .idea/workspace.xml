@@ -2,95 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d79a77a0-4cbf-4da4-b853-3961cd184cfc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_11_radar/Scripts/Radar.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_05_3d_text/Scripts/ScrollZ.cs" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project 1/Assets/ZomBunny Death.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project 1/Assets/ZomBunny Death.wav.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project 1/ProjectSettings/AudioManager.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project 1/ProjectSettings/DynamicsManager.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project 1/ProjectSettings/EditorBuildSettings.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project 1/ProjectSettings/EditorSettings.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project 1/ProjectSettings/GraphicsSettings.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project 1/ProjectSettings/InputManager.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project 1/ProjectSettings/NavMeshAreas.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project 1/ProjectSettings/NetworkManager.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project 1/ProjectSettings/Physics2DSettings.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project 1/ProjectSettings/ProjectSettings.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project 1/ProjectSettings/ProjectVersion.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project 1/ProjectSettings/QualitySettings.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project 1/ProjectSettings/TagManager.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project 1/ProjectSettings/TimeManager.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project 2/ProjectSettings/AudioManager.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project 2/ProjectSettings/DynamicsManager.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project 2/ProjectSettings/EditorBuildSettings.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project 2/ProjectSettings/EditorSettings.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project 2/ProjectSettings/GraphicsSettings.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project 2/ProjectSettings/InputManager.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project 2/ProjectSettings/NavMeshAreas.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project 2/ProjectSettings/NetworkManager.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project 2/ProjectSettings/Physics2DSettings.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project 2/ProjectSettings/ProjectSettings.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project 2/ProjectSettings/ProjectVersion.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project 2/ProjectSettings/QualitySettings.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project 2/ProjectSettings/TagManager.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project 2/ProjectSettings/TimeManager.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project/ProjectSettings/AudioManager.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project/ProjectSettings/DynamicsManager.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project/ProjectSettings/EditorBuildSettings.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project/ProjectSettings/EditorSettings.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project/ProjectSettings/GraphicsSettings.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project/ProjectSettings/InputManager.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project/ProjectSettings/NavMeshAreas.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project/ProjectSettings/NetworkManager.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project/ProjectSettings/Physics2DSettings.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project/ProjectSettings/ProjectSettings.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project/ProjectSettings/ProjectVersion.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project/ProjectSettings/QualitySettings.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project/ProjectSettings/TagManager.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/New Unity Project/ProjectSettings/TimeManager.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/unityProject_slider/Assembly-CSharp-vs.csproj" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/unityProject_slider/Assembly-CSharp.csproj" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/unityProject_slider/Assets/Fonts.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/unityProject_slider/Assets/Fonts/xolonium-fonts-2.4.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/unityProject_slider/Assets/Fonts/xolonium-fonts-2.4/Xolonium-Bold.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/unityProject_slider/Assets/Fonts/xolonium-fonts-2.4/Xolonium-Bold.otf.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/unityProject_slider/Assets/Fonts/xolonium-fonts-2.4/Xolonium-Regular.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/unityProject_slider/Assets/Fonts/xolonium-fonts-2.4/Xolonium-Regular.otf.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/unityProject_slider/Assets/Fonts/xolonium-fonts-2.4/source.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/unityProject_slider/Assets/Fonts/xolonium-fonts-2.4/source.txt.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/unityProject_slider/Assets/Images.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/unityProject_slider/Assets/Images/unity5_learn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/unityProject_slider/Assets/Images/unity5_learn.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/unityProject_slider/Assets/Scripts.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/unityProject_slider/Assets/Scripts/SliderValueToText.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/unityProject_slider/Assets/Scripts/SliderValueToText.cs.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/unityProject_slider/Assets/scene1_hello_world.unity" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/unityProject_slider/Assets/scene1_hello_world.unity.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/unityProject_slider/ProjectSettings/AudioManager.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/unityProject_slider/ProjectSettings/DynamicsManager.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/unityProject_slider/ProjectSettings/EditorBuildSettings.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/unityProject_slider/ProjectSettings/EditorSettings.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/unityProject_slider/ProjectSettings/GraphicsSettings.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/unityProject_slider/ProjectSettings/InputManager.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/unityProject_slider/ProjectSettings/NavMeshAreas.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/unityProject_slider/ProjectSettings/NavMeshLayers.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/unityProject_slider/ProjectSettings/NetworkManager.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/unityProject_slider/ProjectSettings/Physics2DSettings.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/unityProject_slider/ProjectSettings/ProjectSettings.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/unityProject_slider/ProjectSettings/QualitySettings.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/unityProject_slider/ProjectSettings/TagManager.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/unityProject_slider/ProjectSettings/TimeManager.asset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/unityProject_slider/unityProject_slider-csharp.sln" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/unityProject_slider/unityProject_slider.sln" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/unityProject_slider/unityProject_slider.userprefs" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_08_panel_sibliningIndex/Scripts/ArrangeActions.cs" afterPath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_08_panel_sibliningIndex/Scripts/ArrangeActions.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_02_clock_digital/Scripts/ClockDigital.cs" afterPath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_02_clock_digital/Scripts/ClockDigital.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_03_digital_countdown/Scripts/DigitalCountdown.cs" afterPath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_03_digital_countdown/Scripts/DigitalCountdown.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_04_hello_world-fade-away/Scripts/FadeAway.cs" afterPath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_04_hello_world-fade-away/Scripts/FadeAway.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_07_buttons/Scripts/MenuActions.cs" afterPath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_07_buttons/Scripts/MenuActions.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_08_panel_sibliningIndex/Scripts/MoveToFront.cs" afterPath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_08_panel_sibliningIndex/Scripts/MoveToFront.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_10_slider_countdown/Scripts/SliderTimerDisplay.cs" afterPath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_10_slider_countdown/Scripts/SliderTimerDisplay.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/Scripts/SliderValueToText.cs" afterPath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/Scripts/SliderValueToText.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_13_custom_cursor/Scripts/CustomCursorPointer.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_14_text_input/Scripts/DisplayChangedTextContent.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_14_text_input/unityProject_textInput/ProjectSettings/ProjectSettings.asset" afterPath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_14_text_input/unityProject_textInput/ProjectSettings/ProjectSettings.asset" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_14_text_input/unityProject_textInput/ProjectSettings/ProjectVersion.txt" afterPath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_14_text_input/unityProject_textInput/ProjectSettings/ProjectVersion.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_11_radar/Scripts/Radar.cs" afterPath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_11_radar/Scripts/Radar.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_15_toggles_and_group/Scripts/ToggleChangeManager.cs" afterPath="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_15_toggles_and_group/Scripts/ToggleChangeManager.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="unity-5-cookbook-codes.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -111,18 +29,7 @@
     <favorites_list name="unity-5-cookbook-codes" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Radar.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_11_radar/Scripts/Radar.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="2.1825962">
-              <caret line="102" column="4" selection-start-line="102" selection-start-column="4" selection-end-line="102" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -140,6 +47,9 @@
         <option value="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/Scripts/SliderValueToText.cs" />
         <option value="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_10_slider_countdown/Scripts/SliderTimerDisplay.cs" />
         <option value="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_11_radar/Scripts/Radar.cs" />
+        <option value="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_13_custom_cursor/Scripts/CustomCursorPointer.cs" />
+        <option value="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_14_text_input/Scripts/DisplayChangedTextContent.cs" />
+        <option value="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_15_toggles_and_group/Scripts/ToggleChangeManager.cs" />
       </list>
     </option>
   </component>
@@ -217,26 +127,8 @@
               <option name="myItemId" value="1362_01_UI_codes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="unity-5-cookbook-codes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="unity-5-cookbook-codes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1362_01_UI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1362_01_UI_codes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1362_01_11_radar" />
+              <option name="myItemId" value="1362_01_15_toggles_and_group" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -258,11 +150,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1362_01_11_radar" />
+              <option name="myItemId" value="1362_01_15_toggles_and_group" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unity-5-cookbook-codes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unity-5-cookbook-codes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1362_01_UI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1362_01_UI_codes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -300,6 +210,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_14_text_input/Scripts" />
+      <recent name="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_13_custom_cursor" />
       <recent name="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_11_radar" />
       <recent name="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_05_3d_text" />
     </key>
@@ -323,6 +235,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
   </component>
@@ -341,26 +259,26 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="874" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32936507" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25679544" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32188842" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -379,11 +297,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_11_radar/Scripts/Radar.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_02_clock_digital/Scripts/ClockDigital.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-13.888889">
           <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -391,7 +316,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -399,7 +323,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-13.185185">
           <caret line="64" column="57" selection-start-line="64" selection-start-column="57" selection-end-line="64" selection-end-column="57" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -407,7 +330,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -415,7 +337,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.5555553">
           <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -423,7 +344,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -431,7 +351,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.36376604">
           <caret line="17" column="65" selection-start-line="17" selection-start-column="65" selection-end-line="17" selection-end-column="65" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -439,7 +358,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.14978603">
           <caret line="7" column="96" selection-start-line="7" selection-start-column="96" selection-end-line="7" selection-end-column="96" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -447,7 +365,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.44935805">
           <caret line="21" column="91" selection-start-line="21" selection-start-column="91" selection-end-line="21" selection-end-column="91" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -455,7 +372,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.66333807">
           <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -463,7 +379,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.51355207">
           <caret line="24" column="61" selection-start-line="24" selection-start-column="61" selection-end-line="24" selection-end-column="61" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -471,7 +386,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3366619">
           <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -479,14 +393,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_11_radar/Scripts/Radar.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.1825962">
-          <caret line="102" column="4" selection-start-line="102" selection-start-column="4" selection-end-line="102" selection-end-column="4" />
+        <state vertical-scroll-proportion="-2.5463624">
+          <caret line="13" column="67" selection-start-line="13" selection-start-column="67" selection-end-line="13" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_13_custom_cursor/Scripts/CustomCursorPointer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.66333807">
+          <caret line="31" column="47" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_14_text_input/Scripts/DisplayChangedTextContent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.51355207">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_15_toggles_and_group/Scripts/ToggleChangeManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44935805">
+          <caret line="21" column="59" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
           <folding />
         </state>
       </provider>

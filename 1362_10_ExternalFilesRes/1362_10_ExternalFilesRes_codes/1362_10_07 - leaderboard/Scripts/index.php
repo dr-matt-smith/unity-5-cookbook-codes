@@ -1,25 +1,39 @@
 <?php
 include_once 'scoreFunctions.php';
+include_once 'dbFunctions.php';
 
-$action = $_GET["action"];
-if( !isset($action)){
-    print $html_string;
-    exit;
+if(!isset($_GET["action"])){
+    $action = 'defaultIndexPage';
+} else {
+    $action = $_GET["action"];
 }
-
-define("ACTION_FAILED", -1);
-define("UNKNOWN_ACTION", -2);
-
-$connection = mysql_connect("localhost", "cookbook", "cookbook")  or die (mysql_error());
-mysql_select_db('cookbook_highscores');
 
 switch ($action) {
-    case 'get': getPlayer(); break;
-    case 'set': setPlayer(); break;
-    case 'xml': toXML(); break;
-    case 'html': toHTML(); break;
-    case 'reset': resetDatabase(); break;
-    default: print UNKNOWN_ACTION;
+    case 'get':
+        getPlayer();
+        break;
+    case 'set':
+        setPlayer();
+        break;
+    case 'html':
+        toHTML();
+        break;
+    case 'xml':
+        toXML();
+        break;
+    case 'reset':
+        resetDatabase();
+        break;
+
+    case 'defaultIndexPage':
+        include_once 'htmlDefault.php';
+        print $htmlDefaultPage;
+        break;
+
+    default:
+        print 'Error - unknown value for "action" parameter';
 }
 
-mysql_close($connection);
+
+print '<br>';
+print '<a href="index.php">index</a>';

@@ -1,6 +1,6 @@
 <?php
 
-$html_string = <<<HERE
+$htmlDefaultPage = <<<HERE
 
 <!DOCTYPE HTML>
 <html><head><title>Cookbook highscores</title></head>

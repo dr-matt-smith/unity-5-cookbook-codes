@@ -2,18 +2,35 @@
 using System.Collections;
 
 public class PlayerControl : MonoBehaviour {
+	// top-right - maximum player position
+	// only visible at design-time
 	public Transform corner_max;
+
+	// bottom-left - minimum player position
+	// only visible at design-time
 	public Transform corner_min;
 
+	// movement speed multiplier
 	public float speed = 40;
+
+	// reference to rigidbody2D so we can apply force to GameObject
 	private Rigidbody rigidBody;
 
+	/*
+	 * variables for max/min X and Y values
+	 * extracted from corner_min/max at run time
+	 */
 	private float x_min;
 	private float x_max;
 	private float z_min;
 	private float z_max;
-		
-	void Awake(){
+
+	/*----------------------------------------------------------
+	 * cache rigidbody component reference
+	 * read max/min values from corner GameObjects
+	 */
+	void Awake()
+	{
 		rigidBody = GetComponent<Rigidbody>();
 		x_max = corner_max.position.x;
 		x_min = corner_min.position.x;
@@ -21,11 +38,16 @@ public class PlayerControl : MonoBehaviour {
 		z_min = corner_min.position.z;
 	}
 	
-	void FixedUpdate() {
+	/*----------------------------------------------------------*/
+	// each frame - move object, then clamp within range
+	void FixedUpdate()
+	{
 		KeyboardMovement();
 		KeepWithinMinMaxRectangle();
 	}
 	
+	/*----------------------------------------------------------*/
+	// basic 3D character movement
 	private void KeyboardMovement(){
 		float xMove = Input.GetAxis("Horizontal") * speed * Time.deltaTime;
 		float zMove = Input.GetAxis("Vertical") * speed * Time.deltaTime;
@@ -41,7 +63,13 @@ public class PlayerControl : MonoBehaviour {
 		KeepWithinMinMaxRectangle();
 	}
 	
-	private void KeepWithinMinMaxRectangle(){
+	/*----------------------------------------------------------
+	 * using max/min values, ensure position of parent GameObject
+	 * is clamped within these ranges
+	 * so set position to clamped values - moving object into range if required
+	 */
+	private void KeepWithinMinMaxRectangle()
+	{
 		float x = transform.position.x;
 		float y = transform.position.y;
 		float z = transform.position.z;
@@ -50,7 +78,13 @@ public class PlayerControl : MonoBehaviour {
 		transform.position = new Vector3(clampedX, y, clampedZ);
 	}
 
-	void OnDrawGizmos(){
+	/*----------------------------------------------------------
+	 * draw nice yellow rectangle in Scene panel
+	 * to visually show game designer the limits
+	 * that the player's character will be restricted within
+	 */
+	void OnDrawGizmos()
+	{
 		Vector3 top_right = Vector3.zero;
 		Vector3 bottom_right = Vector3.zero;
 		Vector3 bottom_left = Vector3.zero;

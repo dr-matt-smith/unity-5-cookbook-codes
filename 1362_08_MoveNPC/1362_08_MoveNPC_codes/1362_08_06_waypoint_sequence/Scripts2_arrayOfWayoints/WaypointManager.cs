@@ -3,8 +3,13 @@ using System.Collections;
 
 public class WaypointManager : MonoBehaviour 
 {
+	// array of waypoint GameObjects
 	public GameObject[] waypoints;
-	
+
+	/*----------------------------------------------------------
+	 * return reference to next waypoint in array
+	 * if we are at end of array, then return reference to first in the array ...
+ 	 */
 	public GameObject NextWaypoint (GameObject current)
 	{
 		if( waypoints.Length < 1)

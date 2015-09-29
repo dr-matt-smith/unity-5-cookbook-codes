@@ -2,10 +2,19 @@ using UnityEngine;
 using System.Collections;
 
 public class ArrowNPCMovement : MonoBehaviour {
+	// the GameObject towards which we are curently heading towards
 	private GameObject targetGO = null;
+
+	// referencd to out way point manager object
 	private WaypointManager waypointManager;
+
+	// reference to a NavMeshAgent
 	private NavMeshAgent navMeshAgent;
 	
+	/*----------------------------------------------------------
+	 * cache references to navmeshagent and waypointmanager sibling components
+	 * in parent GameObject
+ 	 */
 	void Start ()
 	{
 		navMeshAgent = GetComponent<NavMeshAgent>();
@@ -13,7 +22,10 @@ public class ArrowNPCMovement : MonoBehaviour {
 		HeadForNextWayPoint();
 	}
 
-	void Update () 
+	/*----------------------------------------------------------
+	 * if we are close to 'targetGO' then call 'HeadForNextWayPoint()'
+ 	 */
+	void Update ()
 	{
 		float closeToDestinaton = navMeshAgent.stoppingDistance * 2;
 		if (navMeshAgent.remainingDistance < closeToDestinaton){
@@ -21,6 +33,9 @@ public class ArrowNPCMovement : MonoBehaviour {
 		}
 	}
 
+	/*----------------------------------------------------------
+	 * get next destinaton from waypointmanager, providing it with our current (nearby) destination
+ 	 */
 	private void HeadForNextWayPoint ()
 	{
 		targetGO = waypointManager.NextWaypoint (targetGO);

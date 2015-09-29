@@ -12,6 +12,9 @@ public class ArrowNPCMovement : MonoBehaviour {
 		navMeshAgent = GetComponent<NavMeshAgent>();
 	}
 
+	/*----------------------------------------------------------*/
+	// if fleeing, then call 'PositionToFleeTowards()' to calculted locaiton to flee towards
+	// away from 'targetGO'
 	void Update () 
 	{
 		Vector3 desination = targetGO.transform.position;
@@ -22,11 +25,17 @@ public class ArrowNPCMovement : MonoBehaviour {
 		HeadForDestintation(desination);
 	}
 
+	/*----------------------------------------------------------*/
 	private void HeadForDestintation (Vector3 destinationPosition)
 	{
 		navMeshAgent.SetDestination (destinationPosition);
 	}
 	
+	/*----------------------------------------------------------
+	 * rotate in opposite direciton to where targetGO is
+	 * set return position of point that is 'runAwayDistance' further away from 'targetGO'
+	 * than current position
+	 */
 	private Vector3 PositionToFleeTowards(Vector3 targetPosition)
 	{
 		transform.rotation = Quaternion.LookRotation(transform.position - targetPosition);

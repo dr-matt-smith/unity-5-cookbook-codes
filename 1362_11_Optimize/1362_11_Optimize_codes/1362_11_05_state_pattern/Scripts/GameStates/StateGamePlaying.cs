@@ -1,19 +1,37 @@
 using UnityEngine;
 using System.Collections;
 
-public class StateGamePlaying : GameState {
+/*----------------------------------------------
+ * logic for game PLAYING state
+ */
+public class StateGamePlaying : GameState
+{
 	public StateGamePlaying(GameManager manager):base(manager){}
 
-	public override void OnMyStateEntered(){
+	/*---------------------------------------
+	 * display message saying we have entered this state
+	 */
+	public override void OnMyStateEntered()
+	{
 		string stateEnteredMessage = "ENTER state: StateGamePlaying";
 		gameManager.DisplayStateEnteredMessage(stateEnteredMessage);
 		Debug.Log(stateEnteredMessage);
 	}
+
+	/*---------------------------------------
+	 * no special actions for exit/update
+	 */
 	public override void OnMyStateExit(){}
 	public override void StateUpdate() {}
 
 
-	public override void OnButtonClick(ButtonType button){
+	/*---------------------------------------
+	 * if win or lost button clicked while we are in gme Playing state
+	 *
+	 * then tell game manager to change into corresponding won/lost state
+	 */
+	public override void OnButtonClick(ButtonType button)
+	{
 		if( ButtonType.ButtonWinGame == button )
 			gameManager.NewGameState(gameManager.stateGameWon);
 		

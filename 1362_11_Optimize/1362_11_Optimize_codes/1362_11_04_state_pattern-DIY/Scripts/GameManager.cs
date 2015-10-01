@@ -3,12 +3,17 @@ using System.Collections;
 using System;
 using UnityEngine.UI;
 
-public class GameManager : MonoBehaviour {
+public class GameManager : MonoBehaviour
+{
 	public Text textStateMessages;
 	public Button buttonWinGame;
 	public Button buttonLoseGame;
-	
-	private enum GameStateType {
+
+	/*--------------------------------------------
+	 * the 4 possible game states
+	 */
+	private enum GameStateType
+	{
 		Other,
 		GamePlaying,
 		GameWon,
@@ -19,11 +24,23 @@ public class GameManager : MonoBehaviour {
 	private float timeGamePlayingStarted;
 	private float timeToPressAButton = 5;
 
-	void Start () {
+	/*--------------------------------------------
+	 * move game into state 'GamePlaying'
+	 */
+	void Start ()
+	{
 		NewGameState( GameStateType.GamePlaying );
 	}
 	
-	private void NewGameState(GameStateType newState) {
+	/*--------------------------------------------
+	 * actions when we are chaning the game state
+	 *
+	 * first do any state EXIT actions
+	 * then store the new state
+	 * then do any state ENTER actions
+	 */
+	private void NewGameState(GameStateType newState)
+	{
 
 		// (1) state EXIT actions
 		OnMyStateExit(currentState);
@@ -34,40 +51,62 @@ public class GameManager : MonoBehaviour {
 		// (3) state ENTER actions
 		OnMyStateEnter(currentState);
 
+		// display lines in console, to make reading the 'log' easier
 		PostMessageDivider();
 	}
 
-	public void PostMessageDivider(){
+	/*--------------------------------------------
+	 * display horizontal line (of "-" minus signs) to make reading the 'log' easier
+	 */
+	public void PostMessageDivider()
+	{
 		string newLine = "\n";
 		string divider = "-----------------------------------";
 		textStateMessages.text += newLine + divider;
 	}
-	
-	public void PostMessage(string message){
+
+	/*--------------------------------------------
+	 * add a new message in the UI Text on screen
+	 */
+	public void PostMessage(string message)
+	{
 		string newLine = "\n";
 		string timeTo2DecimalPlaces = String.Format("{0:0.00}", Time.time); 
 		textStateMessages.text += newLine + timeTo2DecimalPlaces + " :: " + message;
 	}
 	
-	public void BUTTON_CLICK_ACTION_WIN_GAME(){
+	/*--------------------------------------------
+	 * action for WIN GAME button - move game into GameWon state
+	 */
+	public void BUTTON_CLICK_ACTION_WIN_GAME()
+	{
 		string message = "Win Game BUTTON clicked";
 		PostMessage(message);
 		NewGameState( GameStateType.GameWon );
 	}
 	
+	/*--------------------------------------------
+	 * action for LOSE GAME button - move game into GameLost state
+	 */
 	public void BUTTON_CLICK_ACTION_LOSE_GAME(){
 		string message = "Lose Game BUTTON clicked";
 		PostMessage(message);
 		NewGameState( GameStateType.GameLost );
 	}
 
+	/*--------------------------------------------
+	 * remove the 2 button GameObjects
+	 */
 	private void DestroyButtons(){
 		Destroy (buttonWinGame.gameObject);
 		Destroy (buttonLoseGame.gameObject);
 	}
 
-	//--------- OnMyStateEnter[ S ] - state specific actions ---------
-	private void OnMyStateEnter(GameStateType state){
+	/*--------------------------------------------
+	 * OnMyStateEnter[ S ] - state-specific actions when we enter a state
+	 */
+	private void OnMyStateEnter(GameStateType state)
+	{
 		string enterMessage = "ENTER state: " + state.ToString();
 		PostMessage(enterMessage);
 
@@ -84,13 +123,20 @@ public class GameManager : MonoBehaviour {
 		}
 	}
 	
-	private void OnMyStateEnterGamePlaying(){
+	/*--------------------------------------------
+	 * actions when we enter GamePlaying state
+	 */
+	private void OnMyStateEnterGamePlaying()
+	{
 		// record time we enter state
 		timeGamePlayingStarted = Time.time;
 	}
 
-	//--------- OnMyStateExit[ S ] - state specific actions ---------
-	private void OnMyStateExit(GameStateType state){
+	/*--------------------------------------------
+	 * OnMyStateExit[ S ] - state-specific actions when we leave a state
+	 */
+	private void OnMyStateExit(GameStateType state)
+	{
 		string exitMessage = "EXIT state: " + state.ToString();
 		PostMessage(exitMessage);
 
@@ -111,13 +157,21 @@ public class GameManager : MonoBehaviour {
 		}
 	}
 	
-	private void OnMyStateExitGamePlaying(){
+	/*--------------------------------------------
+	 * actions when we exit GamePlaying state
+	 */
+	private void OnMyStateExitGamePlaying()
+	{
 		// if leaving gamePlaying state then destroy the 2 buttons
 		DestroyButtons();
 	}
 	
-	//--------- Update[ S ] - state specific actions ---------
-	void Update () {
+	/*--------------------------------------------
+	 * Update[ S ] - state-specific actions for each frame we are in a state
+	 */
+	//---------  ---------
+	void Update ()
+	{
 		switch (currentState){
 		case GameStateType.GamePlaying:
 			UpdateStateGamePlaying();
@@ -131,9 +185,17 @@ public class GameManager : MonoBehaviour {
 		}
 	}
 
-	private void UpdateStateGamePlaying(){
+	/*--------------------------------------------
+	 * actions for each frame that game is in GamePlaying state
+	 */
+	private void UpdateStateGamePlaying()
+	{
+		// calc time since we entered GamePlaying state
 		float timeSinceGamePlayingStarted = Time.time - timeGamePlayingStarted;
-		if(timeSinceGamePlayingStarted > timeToPressAButton){
+
+		// if user has waited longer than 'timeToPressAButton' seconds
+		// then automatically make game go into GameLost state
+		if (timeSinceGamePlayingStarted > timeToPressAButton){
 			string message = "User waited too long - automatically going to Game LOST state";
 			PostMessage(message);
 			NewGameState(GameStateType.GameLost);

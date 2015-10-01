@@ -21,7 +21,9 @@ public class GameManager : MonoBehaviour
 	// reference to the object representing the current state of the game
 	private GameState currentState;
 
-	// create 3 state objects - for playing / won/ lost
+	/*------------------------------------------------------------------
+	 * create 3 state objects - for playing / won/ lost
+	 */
 	private void Awake () 
 	{
 		stateGamePlaying = new StateGamePlaying(this);
@@ -29,21 +31,28 @@ public class GameManager : MonoBehaviour
 		stateGameLost = new StateGameLost(this);
 	}
 
+	/*------------------------------------------------------------------
+	 *
+	 */
 	// move the game into state 'stateGamePlaying'
 	private void Start () 
 	{
 		NewGameState( stateGamePlaying );
 	}
 
-	// if there is a currentState, then call its StateUpdate() method
-	private void Update () 
+	/*------------------------------------------------------------------
+	 * if there is a currentState, then call its StateUpdate() method
+	 */
+	private void Update ()
 	{
 		if (currentState != null) {
 			currentState.StateUpdate ();
 		}
 	}
 
-	// actions to move game into a new state
+	/*------------------------------------------------------------------
+	 * actions to move game into a new state
+	 */
 	public void NewGameState(GameState newState)
 	{
 		// if there is a current state, then call its OnMyStateExit() method
@@ -58,13 +67,17 @@ public class GameManager : MonoBehaviour
 		currentState.OnMyStateEntered();
 	}
 
-	// update the onscreen UI Text to show the message about the state just entered
+	/*------------------------------------------------------------------
+	 * update the onscreen UI Text to show the message about the state just entered
+	 */
 	public void DisplayStateEnteredMessage(string stateEnteredMessage)
 	{
 		textStateMessages.text = stateEnteredMessage;
 	}
 
-	// move the game into the WIN GAME state
+	/*------------------------------------------------------------------
+	 * move the game into the WIN GAME state
+	 */
 	public void BUTTON_CLICK_ACTION_WIN_GAME()
 	{
 		if( null != currentState){
@@ -73,7 +86,9 @@ public class GameManager : MonoBehaviour
 		}
 	}
 
-	// move the game into the LOSE GAME state
+	/*------------------------------------------------------------------
+	 * move the game into the LOSE GAME state
+	 */
 	public void BUTTON_CLICK_ACTION_LOSE_GAME()
 	{
 		if( null != currentState){
@@ -82,7 +97,9 @@ public class GameManager : MonoBehaviour
 		}
 	}
 
-	// remove the 2 UI buttons from the screen
+	/*------------------------------------------------------------------
+	 * remove the 2 UI buttons from the screen
+	 */
 	private void DestroyButtons()
 	{
 		Destroy (buttonWinGame.gameObject);

@@ -2,13 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d79a77a0-4cbf-4da4-b853-3961cd184cfc" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_02_menu_100_stars/Editor/MyGreatGameEditor.cs" afterPath="$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_02_menu_100_stars/Editor/MyGreatGameEditor.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_03_progress_bar/Editor/MyGreatGameEditor.cs" afterPath="$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_03_progress_bar/Editor/MyGreatGameEditor.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_04_spawnGO_button_to_create_at_position2/Editor/ObjectBuilderEditor.cs" afterPath="$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_04_spawnGO_button_to_create_at_position2/Editor/ObjectBuilderEditor.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_04_spawnGO_button_to_create_at_position2/Scripts/ObjectBuilderScript.cs" afterPath="$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_04_spawnGO_button_to_create_at_position2/Scripts/ObjectBuilderScript.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_01_editor_change_pickup_type/Scripts/PickUp.cs" afterPath="$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_01_editor_change_pickup_type/Scripts/PickUp.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_01_editor_change_pickup_type/Editor/PickUpEditor.cs" afterPath="$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_01_editor_change_pickup_type/Editor/PickUpEditor.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_14_DIYProfiler/completedUnityProject.zip" afterPath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_14_DIYProfiler/completedUnityProject.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_15_ImproveSpeedByCaching/completedUnityProject.zip" afterPath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_15_ImproveSpeedByCaching/completedUnityProject.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_03_BlockFromOtherServers/BlockAccess.cs" afterPath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_03_BlockFromOtherServers/BlockAccess.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_02_BulletTime/BulletTime.cs" afterPath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_02_BulletTime/BulletTime.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_09_delegatesEvents/Scripts/ColorChangeListenerImage.cs" afterPath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_09_delegatesEvents/Scripts/ColorChangeListenerImage.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_09_delegatesEvents/Scripts/ColorChangeListenerText.cs" afterPath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_09_delegatesEvents/Scripts/ColorChangeListenerText.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_09_delegatesEvents/Scripts/ColorManager.cs" afterPath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_09_delegatesEvents/Scripts/ColorManager.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_14_DIYProfiler/Scripts/DIYProfiling.cs" afterPath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_14_DIYProfiler/Scripts/DIYProfiling.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_06_deathTime/Scripts/DeathTimeExample.cs" afterPath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_06_deathTime/Scripts/DeathTimeExample.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_07_disableWhenInvisible/Scripts/DisableWhenExitTrigger.cs" afterPath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_07_disableWhenInvisible/Scripts/DisableWhenExitTrigger.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_07_disableWhenInvisible/Scripts/DisableWhenNotVisible.cs" afterPath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_07_disableWhenInvisible/Scripts/DisableWhenNotVisible.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_04_state_pattern-DIY/Scripts/GameManager.cs" afterPath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_04_state_pattern-DIY/Scripts/GameManager.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_05_state_pattern/Scripts/GameManager.cs" afterPath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_05_state_pattern/Scripts/GameManager.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_05_state_pattern/Scripts/GameStates/GameState.cs" afterPath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_05_state_pattern/Scripts/GameStates/GameState.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_08_makeInactiveWhenInvisible/Scripts/InactiveWhenNotVisible.cs" afterPath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_08_makeInactiveWhenInvisible/Scripts/InactiveWhenNotVisible.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_13_UnityProProfiler/Scripts/ProfileCalculations.cs" afterPath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_13_UnityProProfiler/Scripts/ProfileCalculations.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_14_DIYProfiler/Scripts/ProfileScript1.cs" afterPath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_14_DIYProfiler/Scripts/ProfileScript1.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_14_DIYProfiler/Scripts/RandomPositionManager.cs" afterPath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_14_DIYProfiler/Scripts/RandomPositionManager.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_11_coroutinesSegmentedCalculation/Scripts/SegmentedCalculation.cs" afterPath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_11_coroutinesSegmentedCalculation/Scripts/SegmentedCalculation.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_14_DIYProfiler/Scripts/SimpleMath.cs" afterPath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_14_DIYProfiler/Scripts/SimpleMath.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_12_FPSMaxMin/Scripts/SomeCalculations.cs" afterPath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_12_FPSMaxMin/Scripts/SomeCalculations.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_05_state_pattern/Scripts/GameStates/StateGameLost.cs" afterPath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_05_state_pattern/Scripts/GameStates/StateGameLost.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_05_state_pattern/Scripts/GameStates/StateGamePlaying.cs" afterPath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_05_state_pattern/Scripts/GameStates/StateGamePlaying.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_05_state_pattern/Scripts/GameStates/StateGameWon.cs" afterPath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_05_state_pattern/Scripts/GameStates/StateGameWon.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_10_coroutineEvery5Seconds/Scripts/TimedMethod.cs" afterPath="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_10_coroutineEvery5Seconds/Scripts/TimedMethod.cs" />
     </list>
     <ignored path="unity-5-cookbook-codes.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,38 +47,7 @@
     <favorites_list name="unity-5-cookbook-codes" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="MyGreatGameEditor.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_03_progress_bar/Editor/MyGreatGameEditor.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-18.333334">
-              <caret line="33" column="46" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ObjectBuilderScript.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_04_spawnGO_button_to_create_at_position2/Scripts/ObjectBuilderScript.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.444445">
-              <caret line="17" column="71" selection-start-line="17" selection-start-column="71" selection-end-line="17" selection-end-column="71" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ObjectBuilderEditor.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_04_spawnGO_button_to_create_at_position2/Editor/ObjectBuilderEditor.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.31721196">
-              <caret line="44" column="104" selection-start-line="44" selection-start-column="104" selection-end-line="44" selection-end-column="104" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -68,32 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1362_03_Animate2D/1362_03_Animate2D_codes/1362_03_03_fallingWaterBlocks/Scripts/RespawnWhenFall.cs" />
-        <option value="$PROJECT_DIR$/1362_03_Animate2D/1362_03_Animate2D_codes/1362_03_03_fallingWaterBlocks/Scripts/WaterBlock.cs" />
-        <option value="$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_03/Scripts/AvoidEarlySoundRestart.cs" />
-        <option value="$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_04/Scripts/AudioDestructBehaviour.cs" />
-        <option value="$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_04/Scripts/ButtonActions.cs" />
-        <option value="$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_07/SoundTrigger.cs" />
-        <option value="$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_06/SnapshotTrigger.cs" />
-        <option value="$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_05/VolumeControl.cs" />
-        <option value="$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_01/ChangePitch.cs" />
-        <option value="$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_01_rectangle2DmovementLimits/Scripts/PlayerMoveWithLimits.cs" />
-        <option value="$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_02_rectangle3DmovementLimits/Scripts/PlayerControl.cs" />
-        <option value="$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_03_spawnPoints/Scripts/SpawnBall.cs" />
-        <option value="$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_03_spawnPoints/Scripts/SpawnPointManager.cs" />
-        <option value="$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_03_spawnPoints/Scripts/UsefulFunctions.cs" />
-        <option value="$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_04_respawnBackToPassedCheckPoints/Scripts/CheckPoints.cs" />
-        <option value="$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_05_NPCSeekOrFlee/Scripts/ArrowNPCMovement.cs" />
-        <option value="$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_05_NPCSeekOrFlee/Scripts2_seekOrFlee/ArrowNPCMovement.cs" />
-        <option value="$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_07_flocking/Scripts/Drone.cs" />
-        <option value="$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_07_flocking/Scripts/Swarm.cs" />
-        <option value="$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_06_waypoint_sequence/Scripts/WaypointManager.cs" />
-        <option value="$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_06_waypoint_sequence/Scripts/ArrowNPCMovement.cs" />
-        <option value="$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_06_waypoint_sequence/Scripts2_arrayOfWayoints/WaypointManager.cs" />
-        <option value="$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_06_waypoint_sequence/Scripts3_WayPointClass/Waypoint.cs" />
-        <option value="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_01 - defaut Res/Scripts/ReadDefaultResources.cs" />
-        <option value="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_01 - defaut Res/Scripts/ReadDefaultResources_audio.cs" />
-        <option value="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_01 - defaut Res/Scripts/ReadDefaultResources_text.cs" />
         <option value="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_02 - load www/Scripts/ImageFromWebTextureToSprite.cs" />
         <option value="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_02 - load www/Scripts/ReadImageFromWeb.cs" />
         <option value="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_02 - load www/Scripts/ReadTextFromWeb.cs" />
@@ -119,6 +80,32 @@
         <option value="$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_03_progress_bar/Editor/MyGreatGameEditor.cs" />
         <option value="$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_04_spawnGO_button_to_create_at_position2/Scripts/ObjectBuilderScript.cs" />
         <option value="$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_04_spawnGO_button_to_create_at_position2/Editor/ObjectBuilderEditor.cs" />
+        <option value="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_02_BulletTime/BulletTime.cs" />
+        <option value="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_03_BlockFromOtherServers/BlockAccess.cs" />
+        <option value="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_04_state_pattern-DIY/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_05_state_pattern/Scripts/GameStates/GameState.cs" />
+        <option value="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_05_state_pattern/Scripts/GameStates/StateGameLost.cs" />
+        <option value="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_05_state_pattern/Scripts/GameStates/StateGameWon.cs" />
+        <option value="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_05_state_pattern/Scripts/GameStates/StateGamePlaying.cs" />
+        <option value="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_05_state_pattern/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_06_deathTime/Scripts/DeathTimeExample.cs" />
+        <option value="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_07_disableWhenInvisible/Scripts/DisableWhenExitTrigger.cs" />
+        <option value="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_07_disableWhenInvisible/Scripts/DisableWhenNotVisible.cs" />
+        <option value="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_08_makeInactiveWhenInvisible/Scripts/InactiveWhenNotVisible.cs" />
+        <option value="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_09_delegatesEvents/Scripts/ColorManager.cs" />
+        <option value="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_09_delegatesEvents/Scripts/ColorChangeListenerImage.cs" />
+        <option value="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_09_delegatesEvents/Scripts/ColorChangeListenerText.cs" />
+        <option value="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_10_coroutineEvery5Seconds/Scripts/TimedMethod.cs" />
+        <option value="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_11_coroutinesSegmentedCalculation/Scripts/SegmentedCalculation.cs" />
+        <option value="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_13_UnityProProfiler/Scripts/ProfileCalculations.cs" />
+        <option value="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_14_DIYProfiler/Scripts/DIYProfiling.cs" />
+        <option value="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_12_FPSMaxMin/Scripts/SomeCalculations.cs" />
+        <option value="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_14_DIYProfiler/Scripts/SimpleMath.cs" />
+        <option value="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_14_DIYProfiler/Scripts/RandomPositionManager.cs" />
+        <option value="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_14_DIYProfiler/Scripts/ProfileScript1.cs" />
+        <option value="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_15_ImproveSpeedByCaching/Scripts/SimpleMath.cs" />
+        <option value="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_15_ImproveSpeedByCaching/Scripts/SphereBuilder.cs" />
+        <option value="$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_15_ImproveSpeedByCaching/Scripts/AverageDistance6.cs" />
       </list>
     </option>
   </component>
@@ -189,7 +176,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1362_12_EditorExtensions" />
+              <option name="myItemId" value="1362_11_Optimize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1362_11_Optimize_codes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1362_11_16_LOD" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -203,41 +198,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1362_12_EditorExtensions" />
+              <option name="myItemId" value="1362_11_Optimize" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1362_12_EditorExtensions_codes" />
+              <option name="myItemId" value="1362_11_Optimize_codes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1362_12_04_spawnGO_button_to_create_at_position2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="unity-5-cookbook-codes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="unity-5-cookbook-codes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1362_12_EditorExtensions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1362_12_EditorExtensions_codes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1362_12_04_spawnGO_button_to_create_at_position2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Scripts" />
+              <option name="myItemId" value="1362_11_15_ImproveSpeedByCaching" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -251,19 +220,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1362_12_EditorExtensions" />
+              <option name="myItemId" value="1362_11_Optimize" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1362_12_EditorExtensions_codes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1362_12_04_spawnGO_button_to_create_at_position2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Editor" />
+              <option name="myItemId" value="1362_11_Optimize_codes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -277,11 +238,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1362_12_EditorExtensions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1362_12_EditorExtensions_codes" />
+              <option name="myItemId" value="1362_11_Optimize" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -355,17 +312,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="874" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.87598944" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33476394" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33476394" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -393,229 +350,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_04_respawnBackToPassedCheckPoints/Scripts/PlayerControl.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_05_NPCSeekOrFlee/Scripts2_seekOrFlee/PlayerControl.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_07_flocking/Scripts/PlayerControl.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_05_NPCSeekOrFlee/Scripts/ArrowNPCMovement.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.4444447">
-          <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_05_NPCSeekOrFlee/Scripts/UsefulFunctions.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_05_NPCSeekOrFlee/Scripts2_seekOrFlee/ArrowNPCMovement.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.962963">
-          <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_04_respawnBackToPassedCheckPoints/Scripts/CheckPoints.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.333333">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_06_waypoint_sequence/Scripts/WaypointManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.2222223">
-          <caret line="13" column="97" selection-start-line="13" selection-start-column="97" selection-end-line="13" selection-end-column="97" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_06_waypoint_sequence/Scripts/ArrowNPCMovement.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="36" column="99" selection-start-line="36" selection-start-column="99" selection-end-line="36" selection-end-column="99" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_06_waypoint_sequence/Scripts2_arrayOfWayoints/ArrowNPCMovement.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_06_waypoint_sequence/unityProject_completed_2 - waypoints array/Assets/Scripts/WaypointManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_06_waypoint_sequence/Scripts2_arrayOfWayoints/WaypointManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="81" selection-start-line="10" selection-start-column="81" selection-end-line="10" selection-end-column="81" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_06_waypoint_sequence/unityProject_completed_3 - waypoints class/Assets/Scripts/Waypoint.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_06_waypoint_sequence/Scripts3_WayPointClass/Waypoint.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_07_flocking/Scripts/Swarm.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_07_flocking/Scripts/Drone.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32876712">
-          <caret line="16" column="57" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_07/SoundTrigger.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_06/SnapshotTrigger.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_05/VolumeControl.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="80" column="4" selection-start-line="80" selection-start-column="4" selection-end-line="80" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_04/Scripts/AudioDestructBehaviour.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="76" selection-start-line="18" selection-start-column="76" selection-end-line="18" selection-end-column="76" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_04/Scripts/ButtonActions.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_03/Scripts/AvoidEarlySoundRestart.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_01 - defaut Res/Scripts/ReadDefaultResources.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.555555">
-          <caret line="19" column="58" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_01 - defaut Res/Scripts/ReadDefaultResources_audio.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.3333333">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_01 - defaut Res/Scripts/ReadDefaultResources_text.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.7777777">
-          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_02 - load www/Scripts/ReadImageFromWeb.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.444445">
-          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_02 - load www/Scripts/ReadTextFromWeb.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.333333">
-          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_02 - load www/Scripts/ImageFromWebTextureToSprite.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.555555">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="43" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_02 - load www/Scripts/TextureToSpriteClass.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.3333333">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="22" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_03 - manual res/Scripts/ReadManualResourceImageFile.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5547653">
@@ -797,6 +531,238 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.31721196">
           <caret line="44" column="104" selection-start-line="44" selection-start-column="104" selection-end-line="44" selection-end-column="104" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_bonus_XML/1362_bonus_codes/1362_bonus_01_readText/Scripts/ReadPublicTextAsset.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_01_PauseGame/PauseGame.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_02_BulletTime/BulletTime.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.777778">
+          <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_03_BlockFromOtherServers/BlockAccess.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.3015647">
+          <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_04_state_pattern-DIY/Scripts/GameManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.814816">
+          <caret line="196" column="62" selection-start-line="196" selection-start-column="62" selection-end-line="196" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_05_state_pattern/Scripts/GameStates/GameState.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-23.814816">
+          <caret line="45" column="57" selection-start-line="45" selection-start-column="57" selection-end-line="45" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_05_state_pattern/Scripts/GameStates/StateGameLost.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_05_state_pattern/Scripts/GameStates/StateGameWon.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_05_state_pattern/Scripts/GameStates/StateGamePlaying.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.666666">
+          <caret line="30" column="73" selection-start-line="30" selection-start-column="73" selection-end-line="30" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_05_state_pattern/Scripts/GameManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.703703">
+          <caret line="99" column="0" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_06_deathTime/Scripts/DeathTimeExample.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7226173">
+          <caret line="48" column="59" selection-start-line="48" selection-start-column="59" selection-end-line="48" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_07_disableWhenInvisible/Scripts/DisableWhenExitTrigger.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12328767">
+          <caret line="6" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_07_disableWhenInvisible/Scripts/DisableWhenNotVisible.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42465752">
+          <caret line="31" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_08_makeInactiveWhenInvisible/Scripts/InactiveWhenNotVisible.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20547946">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_09_delegatesEvents/Scripts/ColorChangeListenerImage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5547653">
+          <caret line="26" column="73" selection-start-line="26" selection-start-column="73" selection-end-line="26" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_09_delegatesEvents/Scripts/ColorChangeListenerText.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5547653">
+          <caret line="26" column="72" selection-start-line="26" selection-start-column="72" selection-end-line="26" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_09_delegatesEvents/Scripts/ColorManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.79452056">
+          <caret line="44" column="72" selection-start-line="44" selection-start-column="72" selection-end-line="44" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_10_coroutineEvery5Seconds/Scripts/TimedMethod.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53424656">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_11_coroutinesSegmentedCalculation/Scripts/SegmentedCalculation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6799431">
+          <caret line="58" column="13" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_12_FPSMaxMin/Scripts/From_UnifyCommunity/FPSCounter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.55479455">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_12_FPSMaxMin/Scripts/SomeCalculations.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34931508">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_13_UnityProProfiler/Scripts/ProfileCalculations.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20547946">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_14_DIYProfiler/Scripts/ProfileScript1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33854908">
+          <caret line="81" column="29" selection-start-line="81" selection-start-column="29" selection-end-line="81" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_14_DIYProfiler/Scripts/DIYProfiling.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.69863015">
+          <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_14_DIYProfiler/Scripts/RandomPositionManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.67808217">
+          <caret line="33" column="49" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_14_DIYProfiler/Scripts/SimpleMath.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.061643835">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="6" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_15_ImproveSpeedByCaching/Scripts/AverageDistance6.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3219178">
+          <caret line="108" column="64" selection-start-line="108" selection-start-column="64" selection-end-line="108" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_15_ImproveSpeedByCaching/Scripts/SimpleMath.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2260274">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_11_Optimize/1362_11_Optimize_codes/1362_11_15_ImproveSpeedByCaching/Scripts/SphereBuilder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5479452">
+          <caret line="35" column="48" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
           <folding />
         </state>
       </provider>

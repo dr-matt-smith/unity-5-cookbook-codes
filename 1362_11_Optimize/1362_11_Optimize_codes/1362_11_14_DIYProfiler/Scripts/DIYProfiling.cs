@@ -1,11 +1,20 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class DIYProfiling : MonoBehaviour {
+public class DIYProfiling : MonoBehaviour
+{
 	public int outerLoopIterations = 20;
 	public int innerLoopMaxIterations = 100;
 	
-	void Update(){
+	/*------------------------------------------------
+	 * start profile - with easy to find name
+	 *
+	 * then loop to do lots of calculations
+	 *
+	 * then end the profile
+	 */
+	void Update()
+	{
 		string profileName = "MATT_calculations1";
 		Profile.StartProfile(profileName);
 
@@ -19,7 +28,8 @@ public class DIYProfiling : MonoBehaviour {
 		Profile.EndProfile(profileName);
 	}
 
-	private void OnApplicationQuit(){
+	private void OnApplicationQuit()
+	{
 		Profile.PrintResults();
 	}
 }

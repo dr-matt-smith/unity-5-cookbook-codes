@@ -29,7 +29,8 @@ public class BulletTime : MonoBehaviour
 	 * Whenever the mouse is right click, activate bullet time. Deactive it when button is released or  
 	 * the player runs out of this resource
 	 */
-	void Update (){
+	void Update ()
+	{
 
 		if (Input.GetButtonDown ("Fire2") && elapsed < totalTime)
 			// IF Fire2 button is pressed down and player hasn't run out of time, THEN pass slow motion speed to SetSpeed function
@@ -42,6 +43,7 @@ public class BulletTime : MonoBehaviour
 		if (isSlow) {
 			// IF Bullet Time effect is in use, THEN add passing time to the amount the player has used
 			elapsed += Time.deltaTime / sloSpeed;
+
 			if (elapsed >= totalTime) {
 				//IF elapsed time equals or exceeds total time, THEN pass regular speed (1f) to SetSpeed function, ending effect. 
 				SetSpeed (1f);
@@ -53,23 +55,27 @@ public class BulletTime : MonoBehaviour
 			// Constrain elapsed time between 0 and total allowed time
 			elapsed = Mathf.Clamp (elapsed, 0, totalTime);
 		}
+
 		// float variable for ratio between remaining effect time and total allowed time
 		float remainingTime = (totalTime - elapsed) / totalTime;
 
 		// Set Slider position to represent amount of bullet time effect left
 		EnergyBar.value = remainingTime;
-		
 	}
+
 	/* ----------------------------------------
 	 * A function to set the game speed that receives
 	 * a float argument for the time scale (1.0f being regular speed)
 	 */
-	private void SetSpeed (float speed){
+	private void SetSpeed (float speed)
+	{
 		// Set time scale as 1.0 (regular speed) or sloSpeed (slow motion)
 		Time.timeScale = speed;
+
 		// set fixed delta time as 0.02 * time scale, avoiding problems with physics during bullet time
 		Time.fixedDeltaTime = 0.02f * speed;
-        // set isSlow variable according to timeScale: true if not equal or greater than 1.0f, false if less than 1.0f 
+
+        // set isSlow variable according to timeScale: true if not equal or greater than 1.0f, false if less than 1.0f
         isSlow = !(speed >= 1.0f);	
 	}
 }

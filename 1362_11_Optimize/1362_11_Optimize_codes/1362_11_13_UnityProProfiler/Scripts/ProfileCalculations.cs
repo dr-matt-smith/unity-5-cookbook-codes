@@ -1,11 +1,23 @@
 using UnityEngine;
 using System.Collections;
- 
-public class ProfileCalculations : MonoBehaviour {
+
+/*------------------------------------------------
+ * LOTS of calculations, to give us something to measure when profiling
+ */
+public class ProfileCalculations : MonoBehaviour
+{
 	public int outerLoopIterations = 20;
 	public int innerLoopMaxIterations = 100;
 
-	void Update(){
+	/*------------------------------------------------
+	 * start profile - with easy to find name
+	 *
+	 * then loop to do lots of calculations
+	 *
+	 * then end the profile
+	 */
+	void Update()
+	{
 		Profiler.BeginSample("MATT_calculations");
 
 		for(int i = 0; i < outerLoopIterations; i++){

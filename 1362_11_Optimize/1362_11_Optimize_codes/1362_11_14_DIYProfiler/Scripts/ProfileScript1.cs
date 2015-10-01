@@ -7,47 +7,45 @@ using System;
  
 public class ProfileScript1 : MonoBehaviour
 {
+	// number of times to perform operation
 	private int ITERATIONS = 2;
-/*
-	private void Start(){
-		ArrayList randomPositions = RandomPositionManager.BuildVector3ArrayList(SIZE);
-		for(int i=0; i < 2000; i++){
-			Profile.StartProfile("ArrayListBuildSearch");
-			FindClosestPosition(randomPositions);
-			Profile.EndProfile("ArrayListBuildSearch");
-		}
-	}
- 
-	private void FindClosestPosition(ArrayList positions){
-		float minDistance = 1000;
-		for(int i=0; i < SIZE; i++) {
-			Vector3 pos = (Vector3)positions[i];
-			Vector3 cameraPosition = transform.position;
-			float distance = Vector3.Distance(cameraPosition, pos);
-			if( distance < minDistance)
-				minDistance = distance;
-		}
-	}
-*/
-	
+
+	// reference to Transform component of Player
 	public Transform playerTransformCache;
+
+	// reference to object instance of SimpleMath class
 	private SimpleMath mathObjectCache;
+
+	// reference to Transform of MainCamera
 	private Transform cameraTransformCache;
 	
-	private void Awake(){
+	/*-----------------------------------------
+	 * find and store refernces to camera Transform and to SimpleMath sibling object
+	 */
+	private void Awake()
+	{
 		// cache the object references
 		mathObjectCache = GetComponent<SimpleMath>();
 		cameraTransformCache = transform;
 	}
-	
-	
-	
-	private void Start(){
+
+	/*--------------------------------------------------
+	 * call method to be profiled ITERATIONS number of times
+	 */
+	private void Start()
+	{
 		for(int i=0; i < ITERATIONS; i++){
+			//FindDistanceMethod1();
+			//FindDistanceMethod2();
+			//FindDistanceMethod3();
 			FindDistanceMethod4();
 		}
 	}
-		
+
+	/*-------------------------------------------
+	 * when scene/application terminated
+	 * output profile resuls to the Console
+	 */
 	private void OnApplicationQuit()
 	{
 		Profile.PrintResults();
@@ -83,15 +81,12 @@ public class ProfileScript1 : MonoBehaviour
 	
 	private void FindDistanceMethod3(){
 		Profile.StartProfile("Method-3");
-		print ( DateTime.UtcNow );
 		transform.Translate(1,1,1);
 		print ( DateTime.UtcNow );
-/*		
 		Vector3 pos1 = transform.position;
 		Vector3 pos2 = playerTransformCache.position;
 		float distance = Vector3.Distance(pos1, pos2);
 		float halfDistance = mathObjectCache.Halve(distance);
-*/
 		Profile.EndProfile("Method-3");
 	}
 
@@ -102,12 +97,10 @@ public class ProfileScript1 : MonoBehaviour
 		print ( DateTime.UtcNow );
 		cameraTransformCache.Translate(1,1,1);
 		print ( DateTime.UtcNow );
-/*
 		Vector3 pos1 = cameraTransformCache.position;
 		Vector3 pos2 = playerTransformCache.position;
 		float distance = Vector3.Distance(pos1, pos2);
 		float halfDistance = mathObjectCache.Halve(distance);
-*/
 		Profile.EndProfile("Method-4");
 	}
 

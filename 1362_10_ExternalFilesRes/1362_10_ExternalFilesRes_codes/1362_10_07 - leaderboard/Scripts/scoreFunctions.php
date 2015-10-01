@@ -1,5 +1,11 @@
 <?php
-function getPlayer() {
+/**
+ * extract player's name from GET array
+ * and use DB function to retrive that player's score
+ * then print out that score
+ */
+function getPlayer()
+{
     $playerName = $_GET["player"];
     $score = getScoreByPlayerName($playerName);
 
@@ -7,6 +13,11 @@ function getPlayer() {
 
 }
 
+/**
+ * extract player's name and new score from GET array
+ * and use DB function to set that player's score
+ * then print out success of action
+ */
 function setPlayer()
 {
     $playerName = $_GET["player"];
@@ -23,8 +34,13 @@ function setPlayer()
     print $feedback;
 }
 
-
-function toHTML() {
+/**
+ * extract all player's names and scores from DB
+ * build HTML list
+ * and output this string
+ */
+function toHTML()
+{
     $connection=open_database_connection();
     $query = "SELECT * FROM cookbook_highscores order by score desc";
 
@@ -41,7 +57,13 @@ function toHTML() {
     print $html_output;
 }
 
-function toXML() {
+/**
+ * extract all player's names and scores from DB
+ * build XML structrue
+ * and output this string
+ */
+function toXML()
+{
     $connection=open_database_connection();
     $query = "SELECT * FROM cookbook_highscores order by score desc";
 
@@ -61,6 +83,10 @@ function toXML() {
     print $xml_output;
 }
 
+/**
+ * delete all records from DB, and insert out default data
+ * print out simple message stating that DB has been reset
+ */
 function resetDatabase()
 {
     print('resetting database');

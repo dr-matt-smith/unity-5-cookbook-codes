@@ -3,31 +3,41 @@ using UnityEngine;
 using System.Collections;
 using System;
 using System.IO;
+
 /* ----------------------------------------
  * class to demonstrate how to take screenshots at runtime
  * using two different methods: Unity's built-in CaptureScreenshot function
  * and a combination of ReadPixels, EncodeToJPG (or EncodeToPNG) and WriteAllBytes.
  */ 
-public class TakeScreenshot : MonoBehaviour {
+public class TakeScreenshot : MonoBehaviour
+{
 	// String variable for a prefix for the screenshot's name 
 	public string prefix = "Screenshot";
+
 	// A selector for the screenshot taking method
 	public enum method{captureScreenshotPng, ReadPixelsPng, ReadPixelsJpg};
-	// Set initial value for 'method' as 'captureScreenshotPng' 
+
+	// Set initial value for 'method' as 'captureScreenshotPng'
 	public method captMethod = method.captureScreenshotPng;
+
 	// Int value by which to increase the resolution of screenshots taken via CaptureScreenshot method
 	public int captureScreenshotScale = 1;	
-	// A slider from 0 to 100 from which to set JPG quality 
+
+	// A slider from 0 to 100 from which to set JPG quality
 	[Range(0, 100)]
+
 	// Int variable for JPG quality
 	public int jpgQuality = 75;
+
 	// Private Texture2D variable where to storage image capture via ReadPixels
 	private Texture2D texture;
 
 	// Int variable for the screen's width
 	private int sw;
+
 	// Int variable for the screen's height
 	private int sh;
+
 	// Rect variable for the image capture area
 	private Rect sRect;
 
@@ -89,10 +99,13 @@ public class TakeScreenshot : MonoBehaviour {
 	
 		// Wait for the end of the frame, so GUI elements are included in the screenshot
 		yield return new WaitForEndOfFrame();
-		// Create new Texture2D variable of the same size as the image capture area 
+
+		// Create new Texture2D variable of the same size as the image capture area
 		texture = new Texture2D (sw,sh,TextureFormat.RGB24,false);	
+
 		// Read Pixels from the capture area
 		texture.ReadPixels(sRect,0,0);
+
 		// Apply pixels read com capture area into 'texture'
 		texture.Apply();
 		
@@ -116,7 +129,8 @@ public class TakeScreenshot : MonoBehaviour {
 	{
 		// Destroy 'texture' 
 		Destroy (texture);
-		// Write bytes as file named after 'prefix", 'date' and 'format' strings 
+
+		// Write bytes as file named after 'prefix", 'date' and 'format' strings
 		File.WriteAllBytes(Application.dataPath + "/../"+prefix + date + format, bytes);
 	}
 } 

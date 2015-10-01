@@ -1,5 +1,11 @@
 <?php
 
+/**
+ * define string variable '$htmlDefaultPage'
+ * containing HTML to present a default screen with links to user
+ *
+ * to be used when no 'action' GET parameter found
+ */
 $htmlDefaultPage = <<<HERE
 
 <!DOCTYPE HTML>
@@ -40,5 +46,3 @@ $htmlDefaultPage = <<<HERE
 </html>
 
 HERE;
-?>
-

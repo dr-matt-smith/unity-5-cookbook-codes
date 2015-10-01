@@ -1,13 +1,16 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class SceneChange : MonoBehaviour {
+public class SceneChange : MonoBehaviour
+{
 	const int MAIN_MENU = 0;
 	const int GAME_PLAYING = 1;
 	const int GAME_WON = 2;
 	const int GAME_LOST = 3;
 	
-	public void GotoScene(int sceneNumber){
+	public void GotoScene(int sceneNumber)
+	{
+		// load the scene for the given scene nubmber
 		Application.LoadLevel(sceneNumber);
 	}
 }

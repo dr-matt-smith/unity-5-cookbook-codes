@@ -25,8 +25,11 @@ public class LoadMapFromTextfile : MonoBehaviour
 	public Dictionary<char, GameObject> dictionary = new Dictionary<char, GameObject>();
 
 
-	// calls methods to create each ROW of the scene
-	void Awake(){
+	/*-------------------------------------------------------------
+	 * calls methods to create each ROW of the scene
+	 */
+	void Awake()
+	{
 		// (1) declare a newline character variable
 		char newlineChar = '\n';
 
@@ -51,8 +54,11 @@ public class LoadMapFromTextfile : MonoBehaviour
 		BuildMaze( stringArray );
 	}
 	
-	// create objects on screen as defined by this string array
-	private void BuildMaze(string[] stringArray){
+	/*-------------------------------------------------------------
+	 * create objects on screen as defined by this string array
+	 */
+	private void BuildMaze(string[] stringArray)
+	{
 		// count the number of rows in the string array
 		int numRows = stringArray.Length;
 
@@ -73,8 +79,11 @@ public class LoadMapFromTextfile : MonoBehaviour
 		}
 	}
 	
-	// create a row of the scene given a string like "X..p...X"
-	private void CreateRow(string currentRowString, float y) {
+	/*-------------------------------------------------------------
+	 * create a row of the scene given a string like "X..p...X"
+	 */
+	private void CreateRow(string currentRowString, float y)
+	{
 		// calculate X-offset based on Lenth of the string (numChars)
 		int numChars = currentRowString.Length;
 		float xOffset = (numChars/2);
@@ -92,8 +101,11 @@ public class LoadMapFromTextfile : MonoBehaviour
 		}
 	}
 
-	// create instance of given Prefab at position (x, 1, z) 
-	private void CreatePrefabInstance(GameObject objectPrefab, float x, float y){
+	/*-------------------------------------------------------------
+	 *  create instance of given Prefab at position (x, 1, z)
+	 */
+	private void CreatePrefabInstance(GameObject objectPrefab, float x, float y)
+	{
 		// all objects are to be created at Y = 1
 		float z = 0;
 	

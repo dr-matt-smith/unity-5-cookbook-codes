@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d79a77a0-4cbf-4da4-b853-3961cd184cfc" name="Default" comment="" />
+    <list default="true" id="d79a77a0-4cbf-4da4-b853-3961cd184cfc" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/.idea/Scripts.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/.idea/workspace.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_02 - load www/Scripts/ImageFromWebTextureToSprite.cs" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_02 - load www/Scripts/ImageFromWebTextureToSprite.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_04 - static score/Scripts/IncrementCorrectScore.cs" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_04 - static score/Scripts/IncrementCorrectScore.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_05 - player prefs/Scripts/IncrementCorrectScore.cs" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_05 - player prefs/Scripts/IncrementCorrectScore.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_04 - static score/Scripts/IncrementIncorrectScore.cs" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_04 - static score/Scripts/IncrementIncorrectScore.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_05 - player prefs/Scripts/IncrementIncorrectScore.cs" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_05 - player prefs/Scripts/IncrementIncorrectScore.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_08 - level text file loader/Scripts/LoadMapFromTextfile.cs" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_08 - level text file loader/Scripts/LoadMapFromTextfile.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_04 - static score/Scripts/Player.cs" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_04 - static score/Scripts/Player.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_01 - defaut Res/Scripts/ReadDefaultResources.cs" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_01 - defaut Res/Scripts/ReadDefaultResources.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_01 - defaut Res/Scripts/ReadDefaultResources_audio.cs" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_01 - defaut Res/Scripts/ReadDefaultResources_audio.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_01 - defaut Res/Scripts/ReadDefaultResources_text.cs" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_01 - defaut Res/Scripts/ReadDefaultResources_text.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_02 - load www/Scripts/ReadImageFromWeb.cs" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_02 - load www/Scripts/ReadImageFromWeb.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_03 - manual res/Scripts/ReadManualResourceImageFile.cs" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_03 - manual res/Scripts/ReadManualResourceImageFile.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_02 - load www/Scripts/ReadTextFromWeb.cs" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_02 - load www/Scripts/ReadTextFromWeb.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_04 - static score/Scripts/SceneChange.cs" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_04 - static score/Scripts/SceneChange.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_06 - screenshot/Scripts/TakeScreenshot.cs" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_06 - screenshot/Scripts/TakeScreenshot.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_02 - load www/Scripts/TextureToSpriteClass.cs" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_02 - load www/Scripts/TextureToSpriteClass.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_04 - static score/Scripts/UpdateScoreText.cs" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_04 - static score/Scripts/UpdateScoreText.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_05 - player prefs/Scripts/UpdateScoreText.cs" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_05 - player prefs/Scripts/UpdateScoreText.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/dbFunctions.php" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/dbFunctions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/htmlDefault.php" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/htmlDefault.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/index.php" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/scoreFunctions.php" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/scoreFunctions.php" />
+    </list>
     <ignored path="unity-5-cookbook-codes.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -22,101 +51,110 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ArrowNPCMovement.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_06_waypoint_sequence/Scripts/ArrowNPCMovement.cs">
+      <file leaf-file-name="SceneChange.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_04 - static score/Scripts/SceneChange.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-18.185184">
-              <caret line="36" column="99" selection-start-line="36" selection-start-column="99" selection-end-line="36" selection-end-column="99" />
+            <state vertical-scroll-proportion="-6.6666665">
+              <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrowNPCMovement.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_06_waypoint_sequence/Scripts2_arrayOfWayoints/ArrowNPCMovement.cs">
+      <file leaf-file-name="IncrementIncorrectScore.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_05 - player prefs/Scripts/IncrementIncorrectScore.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.3333333">
+              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UpdateScoreText.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_05 - player prefs/Scripts/UpdateScoreText.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.0">
+              <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UpdateScoreText.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_04 - static score/Scripts/UpdateScoreText.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="11" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WaypointManager.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_06_waypoint_sequence/Scripts2_arrayOfWayoints/WaypointManager.cs">
+      <file leaf-file-name="TakeScreenshot.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_06 - screenshot/Scripts/TakeScreenshot.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.5555553">
-              <caret line="10" column="81" selection-start-line="10" selection-start-column="81" selection-end-line="10" selection-end-column="81" />
+            <state vertical-scroll-proportion="-3.3333333">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Waypoint.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_06_waypoint_sequence/unityProject_completed_3 - waypoints class/Assets/Scripts/Waypoint.cs">
+      <file leaf-file-name="dbFunctions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/dbFunctions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-14.416667">
+              <caret line="126" column="84" selection-start-line="126" selection-start-column="84" selection-end-line="126" selection-end-column="84" />
+              <folding>
+                <marker date="1443689752000" expanded="true" signature="1014:1074" placeholder="select * fro..cookbook_highscores..." />
+                <marker date="1443689752000" expanded="true" signature="1625:1685" placeholder="select * fro..cookbook_highscores..." />
+                <marker date="1443689752000" expanded="true" signature="2523:2579" placeholder="UPDATE cookb..." />
+                <marker date="1443689752000" expanded="true" signature="3016:3047" placeholder="DELETE FROM ..." />
+                <marker date="1443689752000" expanded="true" signature="3380:3457" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="htmlDefault.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/htmlDefault.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.75">
+              <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Waypoint.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_06_waypoint_sequence/Scripts3_WayPointClass/Waypoint.cs">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.7777777">
-              <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+            <state vertical-scroll-proportion="-23.791666">
+              <caret line="46" column="66" selection-start-line="46" selection-start-column="66" selection-end-line="46" selection-end-column="66" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Drone.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_07_flocking/Scripts/Drone.cs">
+      <file leaf-file-name="scoreFunctions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/scoreFunctions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="57" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
-              <folding />
+            <state vertical-scroll-proportion="-18.791666">
+              <caret line="87" column="58" selection-start-line="87" selection-start-column="58" selection-end-line="87" selection-end-column="58" />
+              <folding>
+                <marker date="1443690010000" expanded="true" signature="861:914" placeholder="SELECT * FRO..cookbook_highscores..." />
+                <marker date="1443690010000" expanded="true" signature="1526:1579" placeholder="SELECT * FRO..cookbook_highscores..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Swarm.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_07_flocking/Scripts/Swarm.cs">
+      <file leaf-file-name="LoadMapFromTextfile.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_08 - level text file loader/Scripts/LoadMapFromTextfile.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReadDefaultResources.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_01 - defaut Res/Scripts/ReadDefaultResources.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReadDefaultResources_audio.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_01 - defaut Res/Scripts/ReadDefaultResources_audio.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReadDefaultResources_text.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_01 - defaut Res/Scripts/ReadDefaultResources_text.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.6799431">
+              <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -130,27 +168,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_07_buttons/Scripts/MenuActions.cs" />
-        <option value="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_08_panel_sibliningIndex/Scripts/MoveToFront.cs" />
-        <option value="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_08_panel_sibliningIndex/Scripts/ArrangeActions.cs" />
-        <option value="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_09_slider/Scripts/SliderValueToText.cs" />
-        <option value="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_10_slider_countdown/Scripts/SliderTimerDisplay.cs" />
-        <option value="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_11_radar/Scripts/Radar.cs" />
-        <option value="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_13_custom_cursor/Scripts/CustomCursorPointer.cs" />
-        <option value="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_14_text_input/Scripts/DisplayChangedTextContent.cs" />
-        <option value="$PROJECT_DIR$/1362_01_UI/1362_01_UI_codes/1362_01_15_toggles_and_group/Scripts/ToggleChangeManager.cs" />
-        <option value="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_01_spaceGirlMiniGame/Scripts/PlayerMove.cs" />
-        <option value="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_02_key_PickupText/Scripts/PlayerInventoryDisplay.cs" />
-        <option value="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_02_key_PickupText/Scripts/PlayerInventory.cs" />
-        <option value="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_03_CarryingNotCarryingIcon/Scripts/Player.cs" />
-        <option value="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_04_scoreTotal/Scripts/Player.cs" />
-        <option value="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_05_multiple_images/Scripts/Player.cs" />
-        <option value="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_05_multiple_images/Scripts/PlayerInventoryDisplay.cs" />
-        <option value="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_06_multiple_images_tiled/Scripts/PlayerInventoryDisplay.cs" />
-        <option value="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_07_pickup_class_text/Scripts/PickUp.cs" />
-        <option value="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_07_pickup_class_text/Scripts/Player.cs" />
-        <option value="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_07_pickup_class_text/Scripts/PlayerInventoryDisplay.cs" />
-        <option value="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_08_pickup_class_text_totals/Scripts/InventoryManager.cs" />
         <option value="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_08_pickup_class_text_totals/Scripts/PlayerInventoryDisplay.cs" />
         <option value="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_10_grid_layout_group/Scripts/PickupUI.cs" />
         <option value="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_10_grid_layout_group/Scripts/PlayerInventoryDisplay.cs" />
@@ -166,7 +183,6 @@
         <option value="$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_06/SnapshotTrigger.cs" />
         <option value="$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_05/VolumeControl.cs" />
         <option value="$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_01/ChangePitch.cs" />
-        <option value="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_01 - defaut Res/Scripts/ReadDefaultResources.cs" />
         <option value="$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_01_rectangle2DmovementLimits/Scripts/PlayerMoveWithLimits.cs" />
         <option value="$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_02_rectangle3DmovementLimits/Scripts/PlayerControl.cs" />
         <option value="$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_03_spawnPoints/Scripts/SpawnBall.cs" />
@@ -181,6 +197,28 @@
         <option value="$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_06_waypoint_sequence/Scripts/ArrowNPCMovement.cs" />
         <option value="$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_06_waypoint_sequence/Scripts2_arrayOfWayoints/WaypointManager.cs" />
         <option value="$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_06_waypoint_sequence/Scripts3_WayPointClass/Waypoint.cs" />
+        <option value="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_01 - defaut Res/Scripts/ReadDefaultResources.cs" />
+        <option value="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_01 - defaut Res/Scripts/ReadDefaultResources_audio.cs" />
+        <option value="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_01 - defaut Res/Scripts/ReadDefaultResources_text.cs" />
+        <option value="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_02 - load www/Scripts/ImageFromWebTextureToSprite.cs" />
+        <option value="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_02 - load www/Scripts/ReadImageFromWeb.cs" />
+        <option value="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_02 - load www/Scripts/ReadTextFromWeb.cs" />
+        <option value="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_02 - load www/Scripts/TextureToSpriteClass.cs" />
+        <option value="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_03 - manual res/Scripts/ReadManualResourceImageFile.cs" />
+        <option value="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_04 - static score/Scripts/IncrementCorrectScore.cs" />
+        <option value="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_04 - static score/Scripts/IncrementIncorrectScore.cs" />
+        <option value="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_04 - static score/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_04 - static score/Scripts/SceneChange.cs" />
+        <option value="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_05 - player prefs/Scripts/IncrementCorrectScore.cs" />
+        <option value="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_05 - player prefs/Scripts/IncrementIncorrectScore.cs" />
+        <option value="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_05 - player prefs/Scripts/UpdateScoreText.cs" />
+        <option value="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_04 - static score/Scripts/UpdateScoreText.cs" />
+        <option value="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_06 - screenshot/Scripts/TakeScreenshot.cs" />
+        <option value="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/dbFunctions.php" />
+        <option value="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/htmlDefault.php" />
+        <option value="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/index.php" />
+        <option value="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/scoreFunctions.php" />
+        <option value="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_08 - level text file loader/Scripts/LoadMapFromTextfile.cs" />
       </list>
     </option>
   </component>
@@ -223,7 +261,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -242,9 +279,90 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unity-5-cookbook-codes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unity-5-cookbook-codes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1362_10_ExternalFilesRes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unity-5-cookbook-codes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unity-5-cookbook-codes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1362_10_ExternalFilesRes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1362_10_ExternalFilesRes_codes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unity-5-cookbook-codes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unity-5-cookbook-codes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1362_10_ExternalFilesRes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1362_10_ExternalFilesRes_codes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1362_10_08 - level text file loader" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unity-5-cookbook-codes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unity-5-cookbook-codes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1362_10_ExternalFilesRes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1362_10_ExternalFilesRes_codes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1362_10_08 - level text file loader" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -311,26 +429,26 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="874" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.8769841" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3304721" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33476394" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -349,181 +467,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_04_scoreTotal/Scripts/PlayerMove.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3708791">
-          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_05_multiple_images/Scripts/Player.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.51355207">
-          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_05_multiple_images/Scripts/PlayerInventoryDisplay.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7061341">
-          <caret line="33" column="77" selection-start-line="33" selection-start-column="77" selection-end-line="33" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_05_multiple_images/Scripts/PlayerMove.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43269232">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_06_multiple_images_tiled/Scripts/PlayerInventoryDisplay.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40656206">
-          <caret line="19" column="61" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_06_multiple_images_tiled/Scripts/Player.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_07_pickup_class_text/Scripts/PlayerInventoryDisplay.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3366619">
-          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_07_pickup_class_text/Scripts/Player.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.764622">
-          <caret line="40" column="41" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_07_pickup_class_text/Scripts/PickUp.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10699002">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_08_pickup_class_text_totals/Scripts/InventoryManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.871612">
-          <caret line="50" column="101" selection-start-line="50" selection-start-column="101" selection-end-line="50" selection-end-column="101" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_08_pickup_class_text_totals/Scripts/PickUp.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_08_pickup_class_text_totals/Scripts/PlayerInventoryDisplay.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5991441">
-          <caret line="28" column="84" selection-start-line="28" selection-start-column="84" selection-end-line="28" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_08_pickup_class_text_totals/Scripts/Player.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_10_grid_layout_group/Scripts/PickupUI.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7061341">
-          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_10_grid_layout_group/Scripts/Player.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_10_grid_layout_group/Scripts/PlayerInventoryDisplay.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32097003">
-          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_10_grid_layout_group/Scripts/PlayerInventoryModel.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21398003">
-          <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_03_Animate2D/1362_03_Animate2D_codes/1362_03_01_beetleFlipLeftRight/Scripts/BugFlip.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7275321">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_03/Scripts/AvoidEarlySoundRestart.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7061341">
-          <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_04/Scripts/AudioDestructBehaviour.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38516405">
-          <caret line="18" column="76" selection-start-line="18" selection-start-column="76" selection-end-line="18" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_04/Scripts/ButtonActions.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6205421">
-          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_07/SoundTrigger.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40656206">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_06/SnapshotTrigger.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44935805">
-          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_05/VolumeControl.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.620542">
-          <caret line="80" column="4" selection-start-line="80" selection-start-column="4" selection-end-line="80" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_01/ChangePitch.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7489301">
-          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_images/1362_10_10.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -533,7 +476,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -541,7 +483,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.061813187">
           <caret line="28" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -549,7 +490,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.740741">
           <caret line="47" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -557,7 +497,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.740741">
           <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -565,7 +504,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.39148352">
           <caret line="40" column="13" selection-start-line="40" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -573,7 +511,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.27817404">
           <caret line="13" column="79" selection-start-line="13" selection-start-column="79" selection-end-line="13" selection-end-column="79" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -581,7 +518,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -589,7 +525,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -597,7 +532,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -605,7 +539,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.4444447">
           <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -613,7 +546,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -621,7 +553,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-15.962963">
           <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -629,7 +560,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.333333">
           <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -637,13 +567,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.2222223">
           <caret line="13" column="97" selection-start-line="13" selection-start-column="97" selection-end-line="13" selection-end-column="97" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_06_waypoint_sequence/Scripts/ArrowNPCMovement.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.185184">
+        <state vertical-scroll-proportion="0.0">
           <caret line="36" column="99" selection-start-line="36" selection-start-column="99" selection-end-line="36" selection-end-column="99" />
           <folding />
         </state>
@@ -661,13 +590,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_06_waypoint_sequence/Scripts2_arrayOfWayoints/WaypointManager.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.5555553">
+        <state vertical-scroll-proportion="0.0">
           <caret line="10" column="81" selection-start-line="10" selection-start-column="81" selection-end-line="10" selection-end-column="81" />
           <folding />
         </state>
@@ -683,16 +611,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_06_waypoint_sequence/Scripts3_WayPointClass/Waypoint.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.7777777">
-          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_07_flocking/Scripts/Drone.cs">
-      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="57" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
+          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
           <folding />
         </state>
       </provider>
@@ -705,26 +625,243 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_01 - defaut Res/Scripts/ReadDefaultResources.cs">
+    <entry file="file://$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_07_flocking/Scripts/Drone.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32876712">
+          <caret line="16" column="57" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_07/SoundTrigger.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_06/SnapshotTrigger.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_05/VolumeControl.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="80" column="4" selection-start-line="80" selection-start-column="4" selection-end-line="80" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_04/Scripts/AudioDestructBehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="76" selection-start-line="18" selection-start-column="76" selection-end-line="18" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_04/Scripts/ButtonActions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_03/Scripts/AvoidEarlySoundRestart.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_01 - defaut Res/Scripts/ReadDefaultResources.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.555555">
+          <caret line="19" column="58" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_01 - defaut Res/Scripts/ReadDefaultResources_audio.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-3.3333333">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_01 - defaut Res/Scripts/ReadDefaultResources_text.cs">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.7777777">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_02 - load www/Scripts/ReadImageFromWeb.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.444445">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_02 - load www/Scripts/ReadTextFromWeb.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.333333">
+          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_02 - load www/Scripts/ImageFromWebTextureToSprite.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.555555">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="43" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_02 - load www/Scripts/TextureToSpriteClass.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.3333333">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="22" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_03 - manual res/Scripts/ReadManualResourceImageFile.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5547653">
+          <caret line="26" column="57" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_04 - static score/Scripts/IncrementCorrectScore.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.3333333">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_04 - static score/Scripts/IncrementIncorrectScore.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.3333333">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_04 - static score/Scripts/Player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="11" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_05 - player prefs/Scripts/IncrementCorrectScore.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0">
+          <caret line="9" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_05 - player prefs/Scripts/IncrementIncorrectScore.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.3333333">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_04 - static score/Scripts/SceneChange.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.6666665">
+          <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_05 - player prefs/Scripts/UpdateScoreText.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_04 - static score/Scripts/UpdateScoreText.cs">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="11" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_06 - screenshot/Scripts/TakeScreenshot.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.3333333">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/dbFunctions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.416667">
+          <caret line="126" column="84" selection-start-line="126" selection-start-column="84" selection-end-line="126" selection-end-column="84" />
+          <folding>
+            <marker date="1443689752000" expanded="true" signature="1014:1074" placeholder="select * fro..cookbook_highscores..." />
+            <marker date="1443689752000" expanded="true" signature="1625:1685" placeholder="select * fro..cookbook_highscores..." />
+            <marker date="1443689752000" expanded="true" signature="2523:2579" placeholder="UPDATE cookb..." />
+            <marker date="1443689752000" expanded="true" signature="3016:3047" placeholder="DELETE FROM ..." />
+            <marker date="1443689752000" expanded="true" signature="3380:3457" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/htmlDefault.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.75">
+          <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-23.791666">
+          <caret line="46" column="66" selection-start-line="46" selection-start-column="66" selection-end-line="46" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/scoreFunctions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.791666">
+          <caret line="87" column="58" selection-start-line="87" selection-start-column="58" selection-end-line="87" selection-end-column="58" />
+          <folding>
+            <marker date="1443690010000" expanded="true" signature="861:914" placeholder="SELECT * FRO..cookbook_highscores..." />
+            <marker date="1443690010000" expanded="true" signature="1526:1579" placeholder="SELECT * FRO..cookbook_highscores..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_08 - level text file loader/Scripts/LoadMapFromTextfile.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6799431">
+          <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
           <folding />
         </state>
       </provider>

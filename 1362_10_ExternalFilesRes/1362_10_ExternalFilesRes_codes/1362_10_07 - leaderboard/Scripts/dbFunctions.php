@@ -1,5 +1,10 @@
 <?php
-function open_database_connection() {
+
+/*-------------------------------------------
+ * open connection to DB and return
+ */
+function open_database_connection()
+{
     // DB connection details
     $username = 'cookbook';
     $password = 'cookbook';
@@ -19,12 +24,23 @@ function open_database_connection() {
     return $connection;
 }
 
+/*-------------------------------------------
+ * close provided DB connection
+ */
 function close_database_connection($connection)
 {
     mysqli_close($connection);
 }
 
-function getScoreByPlayerName($playerName){
+/**
+ * given a player name, return score for that player
+ * (retrieved from DB)
+ *
+ * @param $playerName
+ * @return mixed
+ */
+function getScoreByPlayerName($playerName)
+{
     $connection=open_database_connection();
     $query = "select * from cookbook_highscores WHERE player='$playerName'";
     if($result = mysqli_query($connection,$query)){
@@ -39,7 +55,15 @@ function getScoreByPlayerName($playerName){
     return $score;
 }
 
-function getIdByPlayerName($playerName){
+/**
+ * given a player name, return the ID corresponding
+ * (retrieved from DB)
+ *
+ * @param $playerName
+ * @return null
+ */
+function getIdByPlayerName($playerName)
+{
     $id = null;
 
     $connection=open_database_connection();
@@ -55,7 +79,16 @@ function getIdByPlayerName($playerName){
     return $id;
 }
 
-function setScoreByPlayerName($playerName, $newScore){
+/**
+ * given a player name and score, try to store score in the DB
+ * only store this new score if it is more than current score for player in DB
+ *
+ * @param $playerName
+ * @param $newScore
+ * @return bool true/false as to success of update
+ */
+function setScoreByPlayerName($playerName, $newScore)
+{
     $connection = open_database_connection();
 
     $oldScore = getScoreByPlayerName($playerName);
@@ -78,6 +111,9 @@ function setScoreByPlayerName($playerName, $newScore){
     }
 }
 
+/**
+ * delete all player records from the DB
+ */
 function deleteAllRecords()
 {
     $connection = open_database_connection();
@@ -87,7 +123,12 @@ function deleteAllRecords()
     close_database_connection($connection);
 }
 
-
+/**
+ * given a player name and score, insert a new record with these details into the DB
+ *
+ * @param $playerName
+ * @param $score
+ */
 function insertNewRecord($playerName, $score)
 {
     $connection = open_database_connection();

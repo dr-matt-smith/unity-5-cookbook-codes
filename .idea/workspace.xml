@@ -2,34 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d79a77a0-4cbf-4da4-b853-3961cd184cfc" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/.idea/Scripts.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/.idea/workspace.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_02 - load www/Scripts/ImageFromWebTextureToSprite.cs" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_02 - load www/Scripts/ImageFromWebTextureToSprite.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_04 - static score/Scripts/IncrementCorrectScore.cs" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_04 - static score/Scripts/IncrementCorrectScore.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_05 - player prefs/Scripts/IncrementCorrectScore.cs" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_05 - player prefs/Scripts/IncrementCorrectScore.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_04 - static score/Scripts/IncrementIncorrectScore.cs" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_04 - static score/Scripts/IncrementIncorrectScore.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_05 - player prefs/Scripts/IncrementIncorrectScore.cs" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_05 - player prefs/Scripts/IncrementIncorrectScore.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_08 - level text file loader/Scripts/LoadMapFromTextfile.cs" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_08 - level text file loader/Scripts/LoadMapFromTextfile.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_04 - static score/Scripts/Player.cs" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_04 - static score/Scripts/Player.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_01 - defaut Res/Scripts/ReadDefaultResources.cs" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_01 - defaut Res/Scripts/ReadDefaultResources.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_01 - defaut Res/Scripts/ReadDefaultResources_audio.cs" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_01 - defaut Res/Scripts/ReadDefaultResources_audio.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_01 - defaut Res/Scripts/ReadDefaultResources_text.cs" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_01 - defaut Res/Scripts/ReadDefaultResources_text.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_02 - load www/Scripts/ReadImageFromWeb.cs" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_02 - load www/Scripts/ReadImageFromWeb.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_03 - manual res/Scripts/ReadManualResourceImageFile.cs" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_03 - manual res/Scripts/ReadManualResourceImageFile.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_02 - load www/Scripts/ReadTextFromWeb.cs" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_02 - load www/Scripts/ReadTextFromWeb.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_04 - static score/Scripts/SceneChange.cs" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_04 - static score/Scripts/SceneChange.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_06 - screenshot/Scripts/TakeScreenshot.cs" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_06 - screenshot/Scripts/TakeScreenshot.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_02 - load www/Scripts/TextureToSpriteClass.cs" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_02 - load www/Scripts/TextureToSpriteClass.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_04 - static score/Scripts/UpdateScoreText.cs" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_04 - static score/Scripts/UpdateScoreText.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_05 - player prefs/Scripts/UpdateScoreText.cs" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_05 - player prefs/Scripts/UpdateScoreText.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/dbFunctions.php" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/dbFunctions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/htmlDefault.php" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/htmlDefault.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/index.php" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/scoreFunctions.php" afterPath="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/scoreFunctions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_02_menu_100_stars/Editor/MyGreatGameEditor.cs" afterPath="$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_02_menu_100_stars/Editor/MyGreatGameEditor.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_03_progress_bar/Editor/MyGreatGameEditor.cs" afterPath="$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_03_progress_bar/Editor/MyGreatGameEditor.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_04_spawnGO_button_to_create_at_position2/Editor/ObjectBuilderEditor.cs" afterPath="$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_04_spawnGO_button_to_create_at_position2/Editor/ObjectBuilderEditor.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_04_spawnGO_button_to_create_at_position2/Scripts/ObjectBuilderScript.cs" afterPath="$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_04_spawnGO_button_to_create_at_position2/Scripts/ObjectBuilderScript.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_01_editor_change_pickup_type/Scripts/PickUp.cs" afterPath="$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_01_editor_change_pickup_type/Scripts/PickUp.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_01_editor_change_pickup_type/Editor/PickUpEditor.cs" afterPath="$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_01_editor_change_pickup_type/Editor/PickUpEditor.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="unity-5-cookbook-codes.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -51,110 +30,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SceneChange.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_04 - static score/Scripts/SceneChange.cs">
+      <file leaf-file-name="MyGreatGameEditor.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_03_progress_bar/Editor/MyGreatGameEditor.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.6666665">
-              <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+            <state vertical-scroll-proportion="-18.333334">
+              <caret line="33" column="46" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IncrementIncorrectScore.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_05 - player prefs/Scripts/IncrementIncorrectScore.cs">
+      <file leaf-file-name="ObjectBuilderScript.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_04_spawnGO_button_to_create_at_position2/Scripts/ObjectBuilderScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.3333333">
-              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+            <state vertical-scroll-proportion="-9.444445">
+              <caret line="17" column="71" selection-start-line="17" selection-start-column="71" selection-end-line="17" selection-end-column="71" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UpdateScoreText.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_05 - player prefs/Scripts/UpdateScoreText.cs">
+      <file leaf-file-name="ObjectBuilderEditor.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_04_spawnGO_button_to_create_at_position2/Editor/ObjectBuilderEditor.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.0">
-              <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UpdateScoreText.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_04 - static score/Scripts/UpdateScoreText.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TakeScreenshot.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_06 - screenshot/Scripts/TakeScreenshot.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.3333333">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dbFunctions.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/dbFunctions.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.416667">
-              <caret line="126" column="84" selection-start-line="126" selection-start-column="84" selection-end-line="126" selection-end-column="84" />
-              <folding>
-                <marker date="1443689752000" expanded="true" signature="1014:1074" placeholder="select * fro..cookbook_highscores..." />
-                <marker date="1443689752000" expanded="true" signature="1625:1685" placeholder="select * fro..cookbook_highscores..." />
-                <marker date="1443689752000" expanded="true" signature="2523:2579" placeholder="UPDATE cookb..." />
-                <marker date="1443689752000" expanded="true" signature="3016:3047" placeholder="DELETE FROM ..." />
-                <marker date="1443689752000" expanded="true" signature="3380:3457" placeholder="INSERT INTO ..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="htmlDefault.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/htmlDefault.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.75">
-              <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-23.791666">
-              <caret line="46" column="66" selection-start-line="46" selection-start-column="66" selection-end-line="46" selection-end-column="66" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scoreFunctions.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/scoreFunctions.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-18.791666">
-              <caret line="87" column="58" selection-start-line="87" selection-start-column="58" selection-end-line="87" selection-end-column="58" />
-              <folding>
-                <marker date="1443690010000" expanded="true" signature="861:914" placeholder="SELECT * FRO..cookbook_highscores..." />
-                <marker date="1443690010000" expanded="true" signature="1526:1579" placeholder="SELECT * FRO..cookbook_highscores..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LoadMapFromTextfile.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_08 - level text file loader/Scripts/LoadMapFromTextfile.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6799431">
-              <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.31721196">
+              <caret line="44" column="104" selection-start-line="44" selection-start-column="104" selection-end-line="44" selection-end-column="104" />
               <folding />
             </state>
           </provider>
@@ -168,12 +68,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_08_pickup_class_text_totals/Scripts/PlayerInventoryDisplay.cs" />
-        <option value="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_10_grid_layout_group/Scripts/PickupUI.cs" />
-        <option value="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_10_grid_layout_group/Scripts/PlayerInventoryDisplay.cs" />
-        <option value="$PROJECT_DIR$/1362_02_InventoryUI/1362_02_InventoryUI_codes/1362_02_10_grid_layout_group/Scripts/PlayerInventoryModel.cs" />
-        <option value="$PROJECT_DIR$/1362_03_Animate2D/1362_03_Animate2D_codes/1362_03_01_beetleFlipLeftRight/Scripts/BugFlip.cs" />
-        <option value="$PROJECT_DIR$/1362_03_Animate2D/1362_03_Animate2D_codes/1362_03_03_fallingWaterBlocks/unityProject - falling water blocks/Assets/Scripts/RespawnWhenFall.cs" />
         <option value="$PROJECT_DIR$/1362_03_Animate2D/1362_03_Animate2D_codes/1362_03_03_fallingWaterBlocks/Scripts/RespawnWhenFall.cs" />
         <option value="$PROJECT_DIR$/1362_03_Animate2D/1362_03_Animate2D_codes/1362_03_03_fallingWaterBlocks/Scripts/WaterBlock.cs" />
         <option value="$PROJECT_DIR$/1362_09_Sound/1362_09_code/1362_09_03/Scripts/AvoidEarlySoundRestart.cs" />
@@ -219,6 +113,12 @@
         <option value="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/index.php" />
         <option value="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_07 - leaderboard/Scripts/scoreFunctions.php" />
         <option value="$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_08 - level text file loader/Scripts/LoadMapFromTextfile.cs" />
+        <option value="$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_01_editor_change_pickup_type/Scripts/PickUp.cs" />
+        <option value="$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_01_editor_change_pickup_type/Editor/PickUpEditor.cs" />
+        <option value="$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_02_menu_100_stars/Editor/MyGreatGameEditor.cs" />
+        <option value="$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_03_progress_bar/Editor/MyGreatGameEditor.cs" />
+        <option value="$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_04_spawnGO_button_to_create_at_position2/Scripts/ObjectBuilderScript.cs" />
+        <option value="$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_04_spawnGO_button_to_create_at_position2/Editor/ObjectBuilderEditor.cs" />
       </list>
     </option>
   </component>
@@ -289,7 +189,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1362_10_ExternalFilesRes" />
+              <option name="myItemId" value="1362_12_EditorExtensions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -303,33 +203,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1362_10_ExternalFilesRes" />
+              <option name="myItemId" value="1362_12_EditorExtensions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1362_10_ExternalFilesRes_codes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="unity-5-cookbook-codes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="unity-5-cookbook-codes" />
+              <option name="myItemId" value="1362_12_EditorExtensions_codes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1362_10_ExternalFilesRes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1362_10_ExternalFilesRes_codes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1362_10_08 - level text file loader" />
+              <option name="myItemId" value="1362_12_04_spawnGO_button_to_create_at_position2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -343,19 +225,63 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1362_10_ExternalFilesRes" />
+              <option name="myItemId" value="1362_12_EditorExtensions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1362_10_ExternalFilesRes_codes" />
+              <option name="myItemId" value="1362_12_EditorExtensions_codes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1362_10_08 - level text file loader" />
+              <option name="myItemId" value="1362_12_04_spawnGO_button_to_create_at_position2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unity-5-cookbook-codes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unity-5-cookbook-codes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1362_12_EditorExtensions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1362_12_EditorExtensions_codes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1362_12_04_spawnGO_button_to_create_at_position2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Editor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unity-5-cookbook-codes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unity-5-cookbook-codes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1362_12_EditorExtensions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1362_12_EditorExtensions_codes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -431,7 +357,7 @@
     <frame x="0" y="22" width="1440" height="874" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.8769841" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.87598944" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -467,53 +393,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_images/1362_10_10.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_03_spawnPoints/Scripts/PlayerControl.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_02_rectangle3DmovementLimits/Scripts/PlayerControl.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.061813187">
-          <caret line="28" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_03_spawnPoints/Scripts/SpawnBall.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.740741">
-          <caret line="47" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_03_spawnPoints/Scripts/SpawnPointManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.740741">
-          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_01_rectangle2DmovementLimits/Scripts/PlayerMoveWithLimits.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39148352">
-          <caret line="40" column="13" selection-start-line="40" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_03_spawnPoints/Scripts/UsefulFunctions.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27817404">
-          <caret line="13" column="79" selection-start-line="13" selection-start-column="79" selection-end-line="13" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1362_08_MoveNPC/1362_08_MoveNPC_codes/1362_08_04_respawnBackToPassedCheckPoints/Scripts/PlayerControl.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -822,11 +701,11 @@
         <state vertical-scroll-proportion="-14.416667">
           <caret line="126" column="84" selection-start-line="126" selection-start-column="84" selection-end-line="126" selection-end-column="84" />
           <folding>
-            <marker date="1443689752000" expanded="true" signature="1014:1074" placeholder="select * fro..cookbook_highscores..." />
-            <marker date="1443689752000" expanded="true" signature="1625:1685" placeholder="select * fro..cookbook_highscores..." />
-            <marker date="1443689752000" expanded="true" signature="2523:2579" placeholder="UPDATE cookb..." />
-            <marker date="1443689752000" expanded="true" signature="3016:3047" placeholder="DELETE FROM ..." />
-            <marker date="1443689752000" expanded="true" signature="3380:3457" placeholder="INSERT INTO ..." />
+            <marker date="1443689752000" expanded="true" signature="-1:-1" placeholder="select * fro..cookbook_highscores..." />
+            <marker date="1443689752000" expanded="true" signature="-1:-1" placeholder="select * fro..cookbook_highscores..." />
+            <marker date="1443689752000" expanded="true" signature="-1:-1" placeholder="UPDATE cookb..." />
+            <marker date="1443689752000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1443689752000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -852,16 +731,72 @@
         <state vertical-scroll-proportion="-18.791666">
           <caret line="87" column="58" selection-start-line="87" selection-start-column="58" selection-end-line="87" selection-end-column="58" />
           <folding>
-            <marker date="1443690010000" expanded="true" signature="861:914" placeholder="SELECT * FRO..cookbook_highscores..." />
-            <marker date="1443690010000" expanded="true" signature="1526:1579" placeholder="SELECT * FRO..cookbook_highscores..." />
+            <marker date="1443690010000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..cookbook_highscores..." />
+            <marker date="1443690010000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..cookbook_highscores..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1362_10_ExternalFilesRes/1362_10_ExternalFilesRes_codes/1362_10_08 - level text file loader/Scripts/LoadMapFromTextfile.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6799431">
+        <state vertical-scroll-proportion="12.256411">
           <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_01_editor_change_pickup_type/Scripts/PlayerMove.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_01_editor_change_pickup_type/Scripts/PickUp.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.777778">
+          <caret line="23" column="61" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_02_menu_100_stars/Editor/MyGreatGameEditor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.61593175">
+          <caret line="37" column="53" selection-start-line="37" selection-start-column="53" selection-end-line="37" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_01_editor_change_pickup_type/Editor/PickUpEditor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5945946">
+          <caret line="152" column="64" selection-start-line="152" selection-start-column="64" selection-end-line="152" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_03_progress_bar/Editor/MyGreatGameEditor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.333334">
+          <caret line="33" column="46" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_04_spawnGO_button_to_create_at_position2/Scripts/ObjectBuilderScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.444445">
+          <caret line="17" column="71" selection-start-line="17" selection-start-column="71" selection-end-line="17" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1362_12_EditorExtensions/1362_12_EditorExtensions_codes/1362_12_04_spawnGO_button_to_create_at_position2/Editor/ObjectBuilderEditor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31721196">
+          <caret line="44" column="104" selection-start-line="44" selection-start-column="104" selection-end-line="44" selection-end-column="104" />
           <folding />
         </state>
       </provider>

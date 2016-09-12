@@ -8,7 +8,7 @@ using System.Collections.Generic;
  * where the key is one of the enumerated PickUpTypes
  * and the value is the integer total of how many of that type are being carried
  */
-public class InventoryManager
+public class InventoryManager : MonoBehaviour
 {
 	// reference to instance object of PlayerInventoryDisplay
 	private PlayerInventoryDisplay playerInventoryDisplay;
